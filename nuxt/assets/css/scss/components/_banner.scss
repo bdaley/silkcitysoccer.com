@@ -1,0 +1,144 @@
+.banner{
+	background:white;
+	height:500px;
+	@media screen and (min-width: 768px) {
+		height:950px;
+	}
+	img{
+		max-width: 100% !important;
+	}
+}
+
+.bannertext{
+	@include fonts($Montserrat , 120px , 400 , $light-black);
+	text-transform:uppercase;
+	font-style:italic;
+	padding-right:10px;
+	&01{
+		font-size: 90px;
+		text-transform:uppercase;
+		padding-right:10px;
+		sup{
+			font-size: 50%;
+			top: -1em;
+		}
+	}
+	&02{
+		background:$red;
+		color:white;
+		position:relative;
+		font-style:italic;
+		padding:13px 20px;
+		@include fonts($Montserrat , 15px , 400 , white);
+		&:after , &:before{
+			position:absolute;
+			width:0;
+			height:0;
+			content:'';
+			top:0;
+			border-left: 20px solid transparent;
+			border-right: 20px solid transparent;
+		}
+		&:after{
+			right:-21px;
+			border-top: 45px solid $red;
+		}
+		&:before{
+			left:-21px;
+			border-bottom:45px solid $red;
+		}
+	}
+	&03{
+		@include fonts($Montserrat , 23px , 400 , $paragraph-grey);
+	}
+	
+}
+.banner-text{
+	background:$light-black;
+	@include fonts($Montserrat , 30px , 400 , white);
+	text-transform:uppercase;
+	padding:20px 0;
+	text-align:center;
+}
+@media screen and (min-width:$screen-md){
+	.banner-text{
+		display:none;
+	}
+}
+
+.layercontent01{
+	left: 0% !important; 
+	top:150px !important;
+}
+.layercontent02 , .layercontent03 , .layercontent04 , .layercontent05 , .layercontent06, .layercontent07{
+	display:none;
+}
+@media screen and (min-width:$screen-md){
+	.layercontent{
+		&02 , &03 , &04 , &05 , &06, &07{
+			display:block;
+		}
+		&02{
+			left:80% !important; 
+			top:280px !important;
+		}
+		&03{
+			left: 47% !important; 
+			top:550px !important;
+		}
+		&04{
+			left: 60.8% !important; 
+			top:655px !important;
+		}
+		&05{
+			left:87% !important; 
+			top:755px !important;
+		}
+		&06{
+			left:78% !important; 
+			top:800px !important;
+		}
+		&07{
+			left:80% !important; 
+			top:900px !important;
+		}
+	}
+}	
+@media screen and (min-width:1200px){
+	.layercontent{
+		&01{
+			left: 10% !important; 
+			top:150px !important;
+		}
+		&02{
+			left:65% !important; 
+			top:280px !important;
+		}
+		&03{
+			left: 55% !important; 
+			top:500px !important;
+		}
+		&04{
+			left: 61.8% !important; 
+			top:605px !important;
+		}
+		&05{
+			left:75% !important; 
+			top:705px !important;
+		}
+		&06{
+			left:72% !important; 
+			top:750px !important;
+		}
+		&07{
+			left:75% !important; 
+			top:850px !important;
+		}
+	}
+}
+@media screen and (min-width:1500px){
+	.layercontent01{
+		left: 25% !important; 
+		top:150px !important;
+	}
+}

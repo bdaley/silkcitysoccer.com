@@ -1,0 +1,223 @@
+.widgetinfowrap{
+	padding:0 0 30px;
+	@include make-xs-column(6);
+	@include make-md-column(12);
+	.bg-blackimg{
+		padding:20px 0;
+		text-align:center;
+		@include fonts($oswald , 16px , 300, white);
+		text-transform:uppercase;
+	}
+	a{
+		text-transform:uppercase;
+		@include fonts($openSans , 13px , 400 , $red);
+		padding::5px 0px 10px 50px;
+	}
+}
+.vm-book{
+	@include fonts($openSans , 14px , 400 , $black);
+	display:inline-block;
+	text-transform:uppercase;
+	margin:20px 0;
+	position:relative;
+	&:hover ,  &:focus{
+		color:$black;
+		text-decoration:none;
+	}
+	&:after{
+		position:absolute;
+		font-family: 'FontAwesome';
+		content:'\f078';
+		top: 100%;
+    	left: 50%;
+    	transform: translateX(-50%);
+    	color:$red;
+
+	}
+}
+.buymatchticket{
+	padding:80px 0 40px;
+	h5{
+		@include fonts($oswald , 20px , 400 , #fff);
+		text-transform:uppercase;
+	}
+	p{
+	 	margin-top:20px;
+	}
+	.ticktbody{
+		padding-left:50px;
+	}
+	.social_link{
+		color:$red;
+		border:1px solid $red;
+		&:hover{
+			border-color:transparent;
+			color:white;
+		}
+	}
+	.socialTicket{
+		padding:30px 0;
+	}
+}
+@media screen and (max-width:$screen-xs - 1){
+	.widgetinfowrap{
+		width:100%;
+	}
+}
+.widgetinfo{
+	padding:10px 0 20px;
+	li{
+		padding:5px 0px 10px 50px ;
+		@include fonts($openSans, 13px , 400 , $paragraph-grey);
+		text-transform:uppercase;
+		position:relative;
+		text-align:left;
+		
+	}
+}
+.info01{
+	li:after{
+		position:absolute;
+		content:'\f00c';
+		font-family:FontAwesome;
+		top: 5px;
+		left: 20px;
+		color:$red;
+		font-size:18px;
+		-webkit-font-smoothing: antialiased;
+	}
+
+}
+.info02{
+	li{
+		border-bottom:1px solid $light-grey;
+	}
+}
+a.blacklrnmore{
+	background:$black;
+	@include fonts($oswald , 12px , 400 , white);
+	text-transform:uppercase;
+	padding:5px 0;
+	display: block;
+	margin: 0 auto;
+	border:1px solid $black;
+	width: 100px;
+	text-align: center;
+	transition:all 0.3s ease-in-out;
+	&:hover , &:focus{
+		color:$black;
+		border:1px solid $black;
+		background:transparent;
+		text-decoration:none;
+	}
+
+}
+.contentinner{
+	.bg-red{
+		padding:16px 0  16px 40px;
+	}
+}
+.ticketInfo{
+	li{
+		padding:5px 40px;
+		margin:5px 0;
+		&:nth-of-type(odd){
+			background:$blackLight;
+			
+			.vs{
+				color:$red;
+			}
+		}
+		&:nth-of-type(even){
+			background:$blackLight01;
+			
+		}
+	}	
+	
+}
+.t_info {
+	li{
+		background:transparent !important;
+		&:nth-of-type(1){
+			@include make-xs-column(3);
+			@include make-sm-column(2);
+			text-align:center;
+			font-size:30px;
+		}
+		&:nth-of-type(2){
+			@include make-xs-column(9);
+			@include make-sm-column(7);
+			.headline01{
+				span{
+					width:100%;
+					text-align:center;
+					display:block;
+				}
+			}
+			
+		}
+		&:nth-of-type(3){
+			@include make-xs-column(12);
+			@include make-sm-column(3);
+			padding-top:22px;
+			a{
+				margin:0 auto;
+			}
+		}
+	}
+}
+.ticketInner_info {
+	width:100%;
+	text-align:center;
+	span{
+
+		&:first-of-type{
+			border-right:1px solid white;
+			padding-right:5px;
+			margin-right:5px;
+		}
+		&:last-of-type{
+			display:block;
+			text-align:center;
+		}
+		
+	}
+}
+@media screen and (min-width:600px){
+
+	.t_info {
+		li{
+			&:nth-of-type(2){
+				.headline01{
+					span{
+						width:35%;
+						float:left;
+						&.vs{
+							width:20%;
+							font-size:30px;
+							line-height:30px;
+							text-align:center;
+						}
+					}
+				}
+			}	
+		}
+	}
+	.ticketInner_info {
+		width:100%;
+		span{
+			margin:5px 0;
+			padding:0 5px ;
+			border-right:1px solid white;
+			&:last-of-type{
+				border:none;
+				display:inline-block;
+			}
+			&:first-of-type{
+				padding-left:0;
+			}
+		}
+	}
+	
+}
+

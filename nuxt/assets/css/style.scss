@@ -1,0 +1,69 @@
+/*
+Name:
+Author :
+Repo :
+Version : 0.1
+SHA-1 :
+
+
+_________________________________
+
+	Components
+_________________________________
+ 01.Header
+ 02.Footer
+ 03.Banner
+ 04.Button
+ 05.Ticket
+ 06.About
+ 07.ResultLatest
+ 08.Matchschedule
+ 09.TicketBooking
+ 10.LatestVideo
+ 11.HeaderInnerPage
+ 12.Background
+ 13.Loader
+
+_________________________________
+
+	Pages
+_________________________________
+01.Home
+02.BookTicket
+03.Shop
+04.Blog
+05.About
+06.Gallery
+07.Contact
+08.Player
+09.Achivement
+10.ClubHistory
+11.Error
+12.Cart
+*/
+
+// ------------------------------------
+//			Core
+// ------------------------------------
+
+// Variables
+@import 'scss/base/variables';
+// Bootstrap
+@import '~bootstrap-sass/assets/stylesheets/bootstrap-mincer';
+@import '~bootstrap-sass/assets/stylesheets/bootstrap';
+// Mixin
+@import 'scss/mixin/mixins';
+@import 'scss/base/base';
+
+
+// ------------------------------------
+//			Project Structure
+// ------------------------------------
+
+// module
+@import 'scss/components/components';
+// pages
+@import 'scss/page/pages';
+
+
+

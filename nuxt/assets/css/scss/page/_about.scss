@@ -1,0 +1,327 @@
+/*-------- about page --------*/
+.countryclub{
+	@include backgrounds(url('/images/background/whiteBgBig.jpg'),cover,top center,no-repeat);
+}
+.boardmember{
+	overflow:hidden;
+	li{
+		@include make-md-column(4);
+		float:left;
+	}
+}
+.fig02{
+	padding:20px;
+
+	&.bg-redcolor p { color:#ffc7c9; }
+}
+.memberimg{
+	height:250px;
+	background-size:cover !important;
+}
+.clubfooter{
+	p{
+		padding:10px 0;
+
+	}
+
+}
+.achievement{
+	float:left;
+	li{
+		margin-bottom:30px;
+		padding:0 15px;
+		background:white;
+	}
+	.fig{
+		@include make-sm-column(4);
+		@include backgrounds(url('/images/background/background-news.jpg'),cover,center,no-repeat);
+		text-align:center;
+		padding:20px 0;
+		& > div{
+			background:$red;
+			height:60px;
+			line-height:60px;
+			position:absolute;
+			bottom:0;
+			text-transform:uppercase;
+			text-align:center;
+			z-index:2;
+			width:100%;
+			@include fonts($oswald ,15px , 400 , white);
+		}
+
+	}
+}
+ul.achievement.slick-slide.slick-current.slick-active {
+	outline:none;
+}
+.slick-dots{
+	button:focus{
+		border:$red;
+		box-shadow: 0 0 0 0;
+		outline:1px solid $red;
+	}
+	.slick-active{
+		button{
+			background:$red;
+			color:white;
+			border:none;
+		}
+
+	}
+}
+.figcontentachv{
+	@include make-sm-column(8);
+	padding:10px 30px;
+	h5{
+		padding:30px 0;
+	}
+	.blog-detailsfooter02{
+		width:100%;
+		text-align:left;
+		padding:15px 0;
+	}
+	.blog-detailsfooter01{
+		width:100%;
+		padding-left:0;
+		text-align:left;
+
+	}
+}
+.achvfooter{
+	padding:30px 0;
+}
+.wrap-achive{
+	overflow:hidden;
+}
+.dots-achive{
+	text-align:center;
+	span{
+
+
+	}
+}
+@media screen and (min-width:$screen-xs){
+	.figcontentachv{
+		.blog-detailsfooter01, .blog-detailsfooter02{
+			width:50%;
+		}
+		.blog-detailsfooter02{
+			text-align:right;
+		}
+	}
+
+}
+@media screen and (min-width:$screen-sm){
+	.achievement{
+		li{
+			padding:0;
+		}
+	}
+}
+@media screen and (min-width:$screen-md){
+	.achievement .fig{
+		height:350px;
+		img{
+			transform:scale(1);
+			transition:all 1s ease-in-out;
+		}
+
+	}
+	.achievement li:hover{
+		.fig img{
+			transform:scale(0.6);
+		}
+	}
+	.figcontentachv .blog-detailsfooter01{
+		text-align:left;
+	}
+
+}
+/* ------------ slick slider customization --------------- */
+
+ul.slick-dots{
+	text-align:center;
+	li{
+		display:inline-block;
+		button{
+			padding:1px 15px ;
+			border:1px solid $light-black;
+			color:$light-black;
+			margin:5px;
+			background:transparent;
+			transition:all 0.3s ease-in-out;
+			&:hover{
+				background:$red;
+				color:white;
+				border-color:$red;
+			}
+		}
+	}
+}
+
+/* ------------ player details ---------------*/
+.playerDetails02{
+	@include backgrounds(url('/images/background/playerdetailsBg.jpg'),cover,center,no-repeat);
+	// background-attachment:fixed;
+	h2{
+		color:white;
+	}
+}
+.player02{
+	overflow:hidden;
+	li{
+		float:left;
+		width:100%;
+		cursor:pointer;
+
+	}
+	&info{
+		@include make-md-column(8);
+		@include backgrounds(url('/images/background/blackblueBg.jpg'),cover,center,no-repeat);
+		padding:40px 40px ;
+		display:block;
+		.oswald16{
+			color:$red;
+			padding:10px 0;
+		}
+		p{
+			padding:10px 0;
+			color:$blackBlue;
+		}
+		a{
+			display:block;
+			float:right;
+			@include fonts($openSans ,18px , 400 , $red);
+			text-transform:capitalize;
+
+		}
+		ul{
+			li{
+				padding-left:20px;
+				position:relative;
+				color:$blackBlue;
+				&:after{
+					position:absolute;
+					height:6px;
+					width:6px;
+					content:'';
+					background:white;
+					border-radius:50%;
+					left:0;
+					top:8px;
+				}
+
+			}
+		}
+	}
+	&fig{
+		position:relative;
+		overflow:hidden;
+		.imgplayer { transition:all 0.4s ease-in-out;}
+
+
+	}
+	.playersocial{
+		text-align:center;
+		padding:10px 0;
+		position: absolute;
+		bottom:0%;
+		width: 100%;
+		transition:all 0.4s ease-in-out;
+		a.social_link{
+			color:$black02;
+			background:rgba(255,255,255,0.2);
+			border:none;
+			transition:all 0.4s ease-in-out;
+
+		}
+	}
+	&info01{
+		h6{
+			@include fonts($oswald , 18px , 400, white);
+			span{
+				color:$blackBlue;
+				margin-right:10px;
+
+			}
+		}
+
+	}
+	&fig , &info02{
+		@include make-md-column(4);
+		padding:0;
+	}
+	&info02{
+		text-align:right;
+	}
+	&info01{
+		@include make-xs-column(8);
+		padding:0;
+	}
+
+
+}
+
+
+@media screen and (min-width:$screen-sm){
+	.clubfooter{
+		.blog-detailsfooter01  , .blog-detailsfooter02 {
+			padding:0;
+		}
+	}
+
+}
+@media screen and (max-width:$screen-xs){
+	.clubfooter{
+		.blog-detailsfooter01, .blog-detailsfooter02{
+			width:100%;
+			text-align:center;
+		}
+		.blog-detailsfooter02{
+			.social_link{
+				float:none;
+			}
+		}
+	}
+}
+@media screen and (min-width:$screen-md){
+	.player02{
+		.playersocial{
+			bottom:-15%;
+		}
+		li{
+			&:hover{
+				.playersocial{
+					bottom:0;
+				}
+				.imgplayer{
+					transform:scale(1.1);
+				}
+			}
+		}
+	}
+	.playersocial {
+		a.social_link{
+			&:hover{
+				color:white;
+				background:$red;
+			}
+		}
+	}
+}
+/*-------------- sponsors -----------*/
+.sponsors{
+	padding:70px 0;
+	ul{
+		overflow: hidden;
+		padding:40px 0;
+		li{
+			float:left;
+			a{
+				display:block;
+				text-align:center;
+			}
+		}
+	}
+}

@@ -1,0 +1,387 @@
+/* ----------- cart page ---------- */
+.cartwrap{
+	padding:0;
+}
+.cartshop{
+	.bg-red{
+		height:40px;
+	}
+	
+	.btn-red{
+		font-size:20px;
+		font-family: $openSans;
+		text-transform:uppercase;
+		padding:10px 40px;
+	}
+}	
+.cartHeader{
+	background:$blackLight01;
+	padding:20px 0;
+	.header01{
+		width:100%;
+		padding:10px 30px;
+		text-transform:uppercase;
+		
+		h4{
+			@include fonts($openSans , 20px , 400 , white) ;
+		}
+		& > div{
+			span{
+				@include fonts($openSans , 14px , 400 , white) ;
+			}
+		}
+	}
+	.header02{
+		width:100%;
+		padding:10px 30px;
+		h4{
+			span{
+				@include fonts($openSans , 20px , 400 , white) ;
+			}
+			text-transform:capitalize;
+		}
+		a{
+			display:inline-block;
+			border:1px solid white;
+			height:40px;
+			width:40px;
+			border-radius:50%;
+			text-align:center;
+			margin-left:5px;
+			color:white;
+			position:relative;
+			span{
+				position:absolute;
+				bottom: 25px;
+				left: 25px;
+				background:$red;
+				height:20px;
+				width:20px;
+				display:block;
+				border-radius:50%;
+				font-size:10px;
+				text-align:center;
+				line-height:20px;
+			}
+		}
+	}
+
+}
+.product-cart-wrap{
+	margin:10px 0;
+	& > figure{
+		display: inline-block;
+		vertical-align: middle;
+		width:100px;
+		height:100px;
+		margin-right:20px;
+		overflow:hidden;
+	}
+	h5{
+		display: inline-block;
+		vertical-align: middle;
+	}
+}
+.card-item{
+	background: $blackLight;
+	margin:5px 0;
+	padding:20px 0;
+	h4{
+		color:white;
+		font-size:16px;
+		font-family:$openSans;
+	}
+	h5{
+		font-family: $openSans;
+		font-size:15px;
+		text-transform:uppercase;
+		margin: 20px 0;
+		color:$paragraph-grey;
+	}
+	.form-control{
+		margin: 20px 0;
+		background:transparent;
+		border:1px solid white;
+		color:#ccc;
+		&:focus{
+			box-shadow:0 0 0 0;
+			border:1px solid $red;
+		}
+		
+	}
+	.big-content{
+		width:100%;
+		float: left;
+		position:relative;
+		padding:0 30px;
+		margin-bottom:20px;
+		font-family: $openSans;
+	}
+}
+.cart-total{
+	background:$blackLight01;
+	padding:10px 0;
+	h4{
+		color:white ;
+	}
+	.big-content{
+		
+		&.medium-content{
+
+			padding:0 15px;
+		}
+	}
+}
+
+@media screen and (min-width:$screen-xs){
+	.cartHeader{
+		.header01{
+			padding:10px 30px;
+			width:40%;
+			float:left;
+		}
+		.header02{
+			padding:0 30px;
+			width:60%;
+			float: left;
+			text-align:right;
+			p{
+				color:white;
+				text-transform:capitalize;
+			}
+		}
+	}
+	.card-item{
+
+		h4{
+			font-size:20px;
+		}
+		.big-content{
+			width:50%;
+			margin-bottom:0px;
+			&.medium-content{
+				width:30%;
+			}
+			&.small-content{
+				width:20%;
+			}
+		}
+	}
+	.cart-total{
+		.big-content{
+			&.medium-content{
+				margin-left:50%;
+			}
+		}	
+	}
+}
+@media screen and (min-width:$screen-md){
+	.modal-dialog{
+		width:700px;
+	}
+}
+
+
+/* --------------- cart type two --------------- */
+.carttype02{
+	p{
+		@include fonts($roboto , 14px , 400 , $paragraph-grey) ;
+	}	
+	.cartHeader{
+		background:white;
+		border-bottom:1px solid $light-grey;
+	}
+	.logo , .orderId{
+		width:100%;
+		float:left;
+		position:relative;
+		text-align:center;
+	}
+	.orderId{
+		p{
+			text-transform:capitalize;
+			&:first-of-type{
+				text-transform:uppercase;
+				span{
+					color:$black;
+				}
+			}
+		}
+	}
+	.heading{
+		padding:20px 0;
+		h5{
+			width:100%;
+			float:left;
+			position:relative;
+			@include fonts($roboto , 36px , 300 , $paragraph-grey) ;
+			text-transform:uppercase;
+		}
+		p{
+			width:100%;
+			float:left;
+			position:relative;
+			color:$black;
+			font-style:italic;
+		}	
+	}
+	.cartBody{
+		padding:40px 0;
+	}
+	.salectedProduct{
+		padding:50px 15px;
+		li{
+			overflow:hidden;
+			position:relative;
+			background:#f3f3f4;
+			margin-bottom:15px;
+		}
+		a{
+			color:$paragraph-grey;
+			position:absolute;
+			top:2px;
+			left:98%; 
+		}
+	}
+	.cart-meta{
+		background:rgba(0,0,0,0.7);
+		h4{
+			@include fonts($roboto , 22px , 300 , white);
+		}
+		.item-content{
+			height:200px;
+			padding: 0 50px;
+			line-height:200px;
+			& > div{
+				display:inline-block;
+				
+			}
+			p{
+				text-transform:capitalize;
+				font-size:16px;
+				font-weight:300;
+			}
+		}
+		.item-price{
+			background:rgba(0,0,0,0.9);
+			border:none;
+			span{
+				color:white;
+			}	
+		}
+	}
+	.item-content , .item-price , .item-details , .item-image{
+		width:100%;
+		float: left;
+		position:relative;
+	}
+	.item-details{
+		padding:30px;
+		h6{
+			@include fonts($roboto , 18px , 700 , $red);
+			text-transform:capitalize;
+		}
+		p{
+			width:70%;
+			padding:20px 0;
+		}
+		& >  div{
+			i{
+				color:$red;
+			}
+			span{
+				@include fonts($roboto , 14px , 400 , $paragraph-grey);
+			}
+		}
+	}
+	.item-price{
+		height:200px;
+		text-align:center;
+		line-height:200px;
+		vertical-align:middle;
+		border-left:1px solid $light-grey;
+		span{
+			@include fonts($roboto , 30px , 700 , $black);
+			display:inline-block;
+		}
+
+	}
+}
+
+
+@media screen and (min-width: $screen-xs){
+	.carttype02{
+		.logo , .orderId{
+			width:50%;
+		}
+		.logo{
+			text-align:left;
+		}
+		.orderId{
+			text-align:right;
+		}
+		.salectedProduct{
+			padding:50px 0;
+			li{
+				height:200px;
+			}
+		}
+		.heading{
+			h5{
+				width:50%;
+
+			}
+			p{
+				text-align:right;
+				width:50%;
+			}	
+		}
+		.item-content{
+			width:80%;
+		}
+		.item-price{
+			width:20%;
+		}	
+		.item-image{
+			width:30%;
+		}	
+		.item-details{
+			width:60%;
+		}	
+	}
+}
+
+.mail-cart{
+	border-top:1px solid $light-grey;
+	padding:40px 0;
+	h3{
+		@include fonts($roboto , 36px , 300 , $paragraph-grey);
+		text-transform:uppercase;
+		span{
+			color:$black;
+		}
+	}
+	form{
+		padding:50px 0;
+	}
+	.checkbox{
+		float: right;
+		margin-right:40px;
+		label{
+			@include fonts($roboto , 14px , 400 , $paragraph-grey);
+		}
+	}
+	button{
+		background:#63aa3d;
+		border:1px solid #63aa3d;
+		@include fonts($roboto , 14px , 400 , white);
+		transition: color, background 0.4s ease-in-out;
+		text-transform:uppercase;
+		padding:10px 20px;
+		border-radius:4px;
+		&:hover{
+			color:#63aa3d;
+			background:white;
+		}
+	}
+}

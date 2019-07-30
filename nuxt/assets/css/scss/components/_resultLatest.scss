@@ -1,0 +1,265 @@
+/* -------------- latest result section -----------*/
+.latestResult{
+	padding: 100px 0;
+	background: url('/images/background/latestnews.jpg') no-repeat;
+	background-size:cover;
+	background-position:center;
+
+	h2{
+		color:white;
+	}
+	.team-logo{
+		position: absolute;
+	    // top: 20%;
+	    // left: 20%;
+	   	top: 50%;
+	    left: 50%;
+
+	   	width: 150px;
+	    height: 150px;
+
+	    margin-left: -75px;
+	    margin-top: -75px;
+
+	    overflow:hidden;
+	    transition: all 0.8s ease-in-out;
+	}
+	.teamLogoImg{
+		height: 100%;
+		background-size: contain !important;
+		background-position: top center !important;
+		background-repeat:no-repeat !important;
+	}
+	&-wrap{
+		padding:50px 0;
+		text-align:center;
+	}
+	.result{
+		padding:40px 0;
+		&-details{
+			@include make-xs-column(12);
+			@include make-lg-column(5);
+			z-index:20;
+			.figure:after{
+				transform:scaleX(-1);
+				left:-100%;
+			}
+		}
+		&-count{
+			@include make-xs-column(12);
+			@include make-lg-column(2);
+			padding:0;
+		}
+		.figure{
+			@include make-md-column(4);
+			@include make-lg-column(7);
+			@include backgrounds(url('/images/result/resultlogo.png'),contain,center,no-repeat);
+			height:340px;
+			padding:0;
+
+			transition:all 0.6s ease-in-out;
+			&:after{
+				position:absolute;
+				content:'';
+				height:340px;
+				width:100%;
+				z-index:-1;
+				left:60%;
+				top:50px;
+				transition:all 0.9s ease;
+				background:url('/images/result/resultBoard.png') top right no-repeat
+			}
+			&.animatefig-before:after{
+
+			}
+		}
+		.content{
+			@include make-md-column(4);
+			@include make-lg-column(5);
+			transition: all 0.8s ease-in-out;
+			margin-top:80px;
+			&:first-of-type{
+				text-align:right;
+				h4:after{
+					left:50%;
+				}
+			}
+			h4{
+				color:rgba(255,255,255,0.7);
+				position:relative;
+				&:after{
+					position: absolute;
+					content: '';
+					width: 50%;
+					height: 3px;
+					background-color: $red;
+					top: 100%;
+					left:0 ;
+				}
+			}
+			p{
+				@include fonts($openSans, 16px, 400, rgba(255,255,255,0.7));
+				padding:2px 0;
+				white-space: nowrap;
+			    overflow: hidden;
+			    text-overflow: ellipsis;
+				text-transform:capitalize;
+				&:first-of-type{
+					color:$red;
+					text-transform:uppercase;
+					font-weight:700;
+					padding:10px 0;
+				}
+			}
+		}
+		.count-number{
+			text-align:center;
+			padding:40px 0 30px;
+			span{
+				@include fonts($oswald ,110px, 700, white);
+				display:inline-block;
+				padding:0 5px;
+			}
+		}
+		.dateTime{
+			@include fonts($openSans , 16px , 400 , rgba(255,255,255,0.7));
+			text-align:center;
+			&-container{
+				span{
+					text-transform:capitalize;
+					&:last-of-type{
+						text-transform:uppercase;
+						position:relative;
+
+					}
+				}
+			}
+			.country-wrap{
+				text-transform:uppercase;
+
+				span{
+					@include fonts($openSans , 16px , 400 , rgba(255,255,255,0.7));
+				}
+			}
+		}
+		.score-btn{
+			margin:50px 0 0;
+		}
+	}
+}
+@media screen and (max-width:499px) {
+	.latestResult{
+		.result{
+			.figure{
+				width:100%;
+				&:after{
+					content:initial;
+				}
+			}
+			.content{
+				display:none;
+			}
+		}
+	}
+}
+@media screen and (min-width:500px) and (max-width:$screen-lg - 1){
+	.latestResult {
+		.result-details
+		{
+			.figure{
+				width:50%;
+				float:left;
+				&:after{
+					left: -220px;
+					width:138%;
+				}
+			}
+			.content{
+				width:50%;
+				float:left;
+			}
+		}
+	}
+}
+@media screen and (min-width:$screen-sm) and (max-width:$screen-lg - 1){
+	.latestResult {
+		.result-details
+		{
+			.figure{
+				width:40%;
+				float:left;
+				background-position: center;
+				&:after{
+					width:200%;
+					left: -98%;
+				}
+			}
+			.content{
+				width:50%;
+				float:left;
+			}
+		}
+	}
+}
+@media screen and (min-width:$screen-md) and (max-width:$screen-lg - 1){
+	.latestResult {
+		.result-details
+		{
+			.figure{
+				width:30%;
+				float:left;
+				&:after{
+					left: -104%;
+				}
+			}
+			.content{
+				width:40%;
+				float:left;
+			}
+		}
+	}
+}
+@media screen and (min-width:$screen-lg){
+	.latestResult {
+		.result-details{
+			.figure{
+				@include backgrounds(url('/images/result/resultlogo.png'),inherit,center,no-repeat);
+				opacity:0;
+				background-position-y:340px;
+				&:after{
+					width:0;
+				}
+				&.animatefig-before:after{
+					width:335px;
+				}
+			}
+			.addfigure{
+			    background-position-y: center;
+			    opacity:1;
+			}
+			&:first-of-type .figure:after{
+				right: 58%;
+				left: auto;
+			}
+			.figresult:after{
+				transform: scaleX(1);
+			}
+			.contentresult{
+				float:right;
+				text-align:left !important;
+				h4:after{
+					left:0 !important;
+				}
+			}
+		}
+		.team-logo{
+			// top: 50%;
+			// left: 50%;
+			// transform: translate(-50%, -50%);
+		 	opacity:0;
+		}
+		.content{
+			opacity:0;
+		}
+	}
+}

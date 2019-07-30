@@ -1,0 +1,211 @@
+.gallerypage{
+	position:relative;
+}
+.gallery-list{
+	position: relative;
+	float: left;
+	width: 100%;
+	margin-bottom:30px;
+	
+	/*---------- on mobile below 480 ----------- */
+	@media screen and (min-width: $screen-xs){
+		width: 50%;
+	}
+
+	&:nth-of-type(odd){
+		@include make-md-column(8);
+	}
+
+	&:nth-of-type(even){	
+		@include make-md-column(4);
+	}
+	
+}
+.galleryListwrap{
+	&:nth-of-type(odd){
+		.gallery-list{
+			margin-bottom:30px;
+
+			&:nth-of-type(even){
+				@include make-md-column(8);
+			}
+
+			&:nth-of-type(odd){	
+				@include make-md-column(4);
+			}
+			
+		}
+	}
+}
+.galleryMenu{
+	text-align:center;
+	li{
+		display:inline-block;
+		background-color:$red;
+	}
+	a{
+		display:block;
+		@include fonts($roboto ,13px , 400 , white );
+		padding:10px;
+		text-transform:uppercase;
+	}
+}
+@media screen and (min-width:$screen-sm){
+	.galleryMenu{
+		a{
+			font-size:20px;
+			padding:10px 25px;
+		}
+	}
+}
+.mfp-bottom-bar{
+	background:rgba(184,30,32,0.8);
+
+	padding:20px;
+}
+.mfp-title{
+	@include fonts($openSans , 14px , 400 , #fff);
+	line-height:22px;
+}
+
+.image_g{
+	width:100%;
+	height:200px;
+	background:$red;
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+	background-position:center !important;
+	position:relative;
+	display:block;
+}
+.column_g{
+	position:relative;
+	overflow:hidden;
+	display:block;
+}
+.gallery-info{
+	background:$white;
+	padding:15px;
+	h6{
+		@include fonts($oswald , 20px , 400 , $red);
+		margin-bottom:10px;
+	}
+}
+/* ----------- gallery second desktop ----------- */
+@media screen and (min-width:$screen-md){
+	.image_g{
+		height:400px;
+		transition:all 0.4s ease-in-out;
+	}
+	.gallery-info01{
+		left: 0;
+		top:0;
+		transform:scale(0);
+		transition:all 0.4s ease-in-out;
+		opacity:0;
+	}
+	.gallery-info,
+	.gallery-info01{
+		padding:100px 50px;
+		position:absolute;
+		background:rgba(0 ,0, 0 ,0.6);
+		width:100%;
+		height:100%;
+
+		h6{
+			transition:all 2s ease;
+			position: absolute;
+			left: -10%;
+			width: 100%;
+			opacity: 0;
+		}
+		p{
+			color:r$white;
+			margin:40px auto;
+		}
+	}
+	.column_g:hover{ 
+		.gallery-info , .gallery-info01{
+			opacity:1;
+			transform:scale(1);
+			transition:all 0.4s ease-in-out;
+			h6{
+				opacity:1;
+				left:50px;
+			}
+		}
+		.image_g{
+			transform:scale(1.1);
+			transition:all 0.4s ease-in-out;
+		}
+
+	}
+}
+
+/* ------------- gallery column three -------------*/
+.gallerycolumn03{
+	.gallery-list{
+		@include make-sm-column(4);
+	}
+	.gallery-info h6{
+		left:0;
+	}
+}
+
+/* ----------------- gallery masonry ---------------- */
+
+// .gallery-sizer ,
+// 
+.item{
+	width:100%;
+	img{
+		display:block;
+		max-width:100%;
+	}
+}
+@media screen and (min-width: $screen-xs){
+	.item{
+		width:50%;
+	}
+}
+@media screen and (min-width: $screen-sm){
+	.item{
+		width: 25%;
+		&.gallery-item-width2{
+			width:50%;
+		}
+		&.gallery-item-width3{
+			width:75%;
+		}
+	}
+}
+
+.magnificPopupParent a{
+	outline: none;
+}
+
+@media screen and (min-width:$screen-md){
+	.magnificPopupParent a{
+		position:relative;
+		display:block;
+		&:after{
+			position:absolute;
+			font-family: 'FontAwesome';
+			content:'\f002';
+			width:100%;
+			height:100%;
+			background:rgba(0,0, 0, 0.5);
+			z-index:2;
+			top:0;
+			left:0;
+		    padding: 50% 0;
+		    color: white;
+		    font-size: 20px;
+		    transform:scale(0);
+		    transition:transform 0.4s ease-in-out;
+		}
+		&:hover:after{
+			transform:scale(1);
+		}
+	}
+}

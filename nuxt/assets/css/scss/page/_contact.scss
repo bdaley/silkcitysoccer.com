@@ -1,0 +1,129 @@
+.contact_icon{
+	text-align:center;
+	padding:30px 0;
+	li{
+		width:100%;
+		float: left;
+		padding:10px 20px;
+		
+		i{
+			font-size:30px;
+			width:60px;
+			height:60px;
+			border:1px solid $red;
+			border-radius:50%;
+			color:$red;
+			padding:14px 0;
+			float: left;
+		}
+		span{
+			// display:block;
+			float: left;
+			padding:20px;
+			@include fonts($openSans , 16px , 400 ,$paragraph-grey);
+		}
+	}
+}
+.map_wrapper{
+	padding:300px 0 0 0;
+	width:100%;
+
+	position:relative;
+	background:#E8DEEA;
+	h2{
+		color:rgba(255,255,255,0.6);
+	}
+}
+.contact_form{
+	position:relative;
+	padding:100px 0;
+	background:rgba(0, 0 ,0 ,0.75);
+}
+#map-section{
+	height:100%;
+	width:100%;
+	position: absolute;
+	top: 0;
+	left:0;
+	z-index:0;
+}
+.formcontact{
+	padding:30px 90px;
+	.form-group{
+		margin-bottom:20px;
+		width:100%;
+		float:left;
+		input{
+			height:60px;
+			background:transparent;
+			@include fonts($openSans , 14px , 700 , #979da0);
+		}
+		
+	}
+	.form-group1{
+		margin-bottom:40px;
+		float:left;
+		width:100%;
+		textarea{
+			height:150px;
+			background:transparent;
+			@include fonts($openSans , 14px , 700 , #979da0);
+		}
+	}
+	button{
+		float:right;
+	}
+}
+
+.parsley-required  {
+    // background-color: $red;
+    width: 50%;
+    padding: 5px 0;
+    @include fonts($openSans , 14px , 700 , $red);
+    text-transform:capitalize;
+    // margin: 0 auto;
+}
+.parsley-errors-list {
+	color:$red;
+}
+@media screen and (min-width:$screen-xs){
+	.contact_icon{
+		li{
+			
+			width:32%;
+			i , span{
+				float: none;
+
+			}
+			span{
+				display:block;
+			}
+		}
+	}
+}
+
+@media screen and (min-width:$screen-md){
+	.contact_icon{
+		li{
+			width:25%;
+			display:inline-block;
+			float:none;
+		}	
+	}
+	.formcontact{
+		.form-group{
+			width:50%;
+			&:nth-of-type(odd){
+				padding-right:10px;
+			}
+			&:nth-of-type(even){
+				padding-left:10px;
+			}
+		}
+		
+	}	
+}
+
+
+
+/*---------------- loading --------------*/

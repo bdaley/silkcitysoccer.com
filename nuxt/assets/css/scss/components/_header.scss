@@ -1,0 +1,361 @@
+.wrapper{
+	overflow:hidden;
+}
+.header-main{
+
+	.logo{
+		@include make-xs-column(2);
+		a{
+			display: block;
+			position: absolute;
+			top: -63px;
+			transform: scale(.6);
+			transition: 0.7s ease-in-out;
+			transition-property: top, transform;
+		}
+		img{
+			max-width:none;
+		}
+	}
+
+	.header-upper{
+		background:black;
+		ul{
+			float:right;
+			li{
+				float: left;
+				a{
+					@include fonts($openSans,14px,400,rgba(255,255,255,0.5));
+					padding:10px;
+					display:block;
+					text-transform:uppercase;
+					transition: color 0.4s ease-in-out;
+				}
+			}
+		}
+	}
+
+	.header-lower{
+		background:rgba(0,0,0,0.9);
+		position: absolute;
+		width:100%;
+		transition:background, transform 0.7s ease-in-out;
+		padding:30px 0 20px;
+		// top: 40px;
+		z-index:9;
+		transform: translateY(0);
+		&.nav-down{
+			position: fixed;
+			top: 0;
+			transform: translateY(-100%);
+		}
+	}
+	.menubar{
+		@include make-xs-column(5);
+		@include make-md-column(8);
+	}
+	.sub-menu{
+		list-style-type: none;
+		position: absolute;
+	    background: lighten($red, 10%);
+	    top: 100%;
+	    height: auto;
+	    max-height: 0;
+	    white-space: nowrap;
+	    transition: opacity .5s ease-in-out;
+	    opacity: 0;
+	    padding: 10px;
+	    // transition: opacity .3s ease;
+   		visibility: hidden;
+    	text-align:left;
+    	z-index:2;
+    	left:50%;
+    	transform:translateX(-50%);
+	    li{
+	    	width:100%;
+	    	position: relative;
+	    	@media screen and (min-width: $screen-md){
+	    		padding:5px 0;
+	    	}
+	    	a{
+	    		padding-top: 0;
+	    		padding-bottom: 0;
+	    	}
+	    }
+	    .sub-menu{
+	    	left:100%;
+	    }
+	}
+	.addSubMenu{
+		max-height:500px;
+		opacity:1;
+		visibility: visible;
+
+	}
+	.navbar-toggle{
+		position: relative;
+		z-index:23;
+		.icon-bar{
+			display: block;
+			position: absolute;
+			$cal : '50% - 2px';
+			top: calc(#{$cal});
+			left: 0;
+			right: 0;
+			height: 2px;
+			background: white;
+			transition: background 0s 0.3s;
+			&:before,
+			&:after{
+				position: absolute;
+				display: block;
+				left: 0;
+				width: 100%;
+				height: 2px;
+				background-color: #fff;
+				content: "";
+				transition-duration: 0.3s, 0.3s;
+				transition-delay: 0.3s, 0s;
+			}
+			&:before{
+				top: -8px;
+				transition-property: top, transform;
+			}
+			&:after{
+				bottom: -8px;
+				transition-property: bottom, transform;
+			}
+		}
+		&.is-active{
+			.icon-bar{
+				background: transparent;
+				&:before,
+				&:after{transition-delay: 0s, 0.3s;}
+				&:before{
+					top: 0;
+					transform: rotate(45deg);
+				}
+				&:after{
+					bottom: 0;
+					transform: rotate(-45deg);
+				}
+			}
+		}
+	}
+	.social{
+		@include make-xs-column(5);
+		@include make-md-column(2);
+		text-align:right;
+		padding:10px 0;
+		a{
+			position: relative;
+		    width: 30px;
+		    height: 30px;
+		    border: 2px solid rgba(255,255,255,0.6);
+		    display: inline-block;
+		    margin:0px 5px;
+		    border-radius:50%;
+		    color:white;
+		    transition:all 0.4s ease-in-out;
+		}
+		i{
+			position:absolute;
+			top:50%;
+			left:50%;
+			font-size:13px;
+			transform:translate(-50%,-50%);
+		}
+	}
+	nav{
+		margin:0;
+		padding:0;
+		float: right;
+		ul{
+			li{
+				float:none;
+				a{
+					font-size:22px;
+					font-weight: 700;
+					color:white;
+					font-family:$Montserrat;
+					text-transform:uppercase;
+					padding: 1vH 20px;
+					margin: 1vH 0;
+					position:relative;
+					display: inline-block;
+					@media screen and (min-width: $screen-md){
+						display: block;
+						font-size: 14px;
+						font-weight: 400;
+						font-family:$openSans;
+						padding:11px;
+						margin: 0;
+					}
+					&:after{
+						position:absolute;
+						height:1px;
+						width:0;
+						background-color:$red;
+						content:'';
+						left:50%;
+						top:100%;
+					}
+				}
+			}
+		}
+	}
+	.nav-menu{
+		display: none;
+		margin: 0;
+	    position: fixed;
+	    bottom: 100%;
+	    top: 0;
+	    left:0;
+	    width:100%;
+	    height: 0;
+	    z-index: 9;
+	    text-align: center;
+	    background: transparentize($blackBlue, 0.2);
+	    transition: bottom 0.3s ease;
+	    transition-property: height, bottom;
+	    & > ul{
+	    	transition: opacity 0.3s ease;
+	    	transition-delay: 0.3s;
+	    	opacity: 0
+	    }
+	    @media screen and (min-width: $screen-md){
+	    	height: auto;
+	    	& > ul {
+	    		opacity: 1;
+	    	}
+	    }
+	}
+	.navbar-nav{
+		float: none;
+		padding-top: 20vH;
+	}
+	.open-nav{
+		display: block;
+		bottom:0;
+		height: 100vH;
+		& > ul{
+			opacity: 1;
+		}
+	}
+	.navbar-toggle {display: block;}
+	.sticky-menu{
+		position:fixed;
+		top: 0;
+		z-index:23;
+		will-change: top, transform;
+		transform : translateY(0);
+	}
+}
+
+/* ------------- above large desktop header --------------*/
+@include respond-to('lg') {
+	.header-main nav ul li a { padding: 15px; }
+}
+@media screen and (min-width:$screen-sm){
+	.header-main{
+		.logo a{
+			top: -30px;
+			transform: scale(1);
+		}
+		.sticky-menu,
+		.nav-down{
+			.logo a {
+				top: -53px;
+				margin-top: 0;
+				transform: scale(0.6);
+			}
+		}
+	}
+}
+/*---------- above medium desktop  header -------------*/
+@include respond-to('md') {
+	.header-main{
+		.navbar-toggle {display: none;}
+		.nav-menu{
+			margin:0;
+			position:relative;
+			width:100%;
+			background:transparent;
+			display: block;
+			li{
+				float:left;
+			}
+		}
+		.navbar-nav { padding:0;}
+	}
+	nav ul li a{
+		 &.active {
+			background:none;
+			color:$red;
+			&:after{
+				width:100%;
+				left:0;
+			}
+		}
+	}
+}
+@media screen and (max-width:$screen-sm - 1){
+	.header-main {
+		.logo,
+		.menubar{
+			width:50%;
+		}
+		.social{
+			display:none;
+		}
+	}
+}
+@media screen and (min-width:$screen-md){
+	.header-main .header-upper ul li a:hover{
+		color:$red;
+	}
+	.header-main .sub-menu{
+		left:0;
+		transform:translateX(0);
+	}
+	.menu-bar{
+		li{
+			span{
+				width:25%;
+				position:absolute;
+				height:1px;
+				bottom:100%;
+				opacity:0;
+				background:$red;
+				left:0;
+				transition: opacity, bottom 0.4s ease-in-out;
+				&:nth-of-type(2){
+					left:25%;
+					transition-duration: 0.6s;
+				}
+				&:nth-of-type(3){
+					left:50%;
+					transition-duration: 0.8s;
+				}
+				&:nth-of-type(4){
+					left:75%;
+					transition-duration: 1s;
+				}
+			}
+			a:hover span{
+				opacity:1;
+				bottom:0;
+			}
+			a.active:hover span{
+				opacity:0;
+			}
+
+			&:hover >.sub-menu{
+				max-height:500px;
+				opacity:1;
+				visibility: visible;
+				// opacity: 1;
+			}
+		}
+	}
+}

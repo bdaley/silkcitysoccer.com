@@ -1,0 +1,162 @@
+.btn{
+	padding:15px 20px;
+	border:1px solid grey;
+	@include fonts($oswald,20px,400,$grey);
+	text-transform:uppercase;
+	border-radius:4;
+	transition: 0.4s ease-in-out;
+	&-white{
+		background:white;
+		color:$grey;
+		border:1px solid $grey;
+		transition-property: background, border-color, color;
+		position:relative;
+		&:hover , &:focus{
+			background:$red;
+			border-color:$red;
+			color:white;
+		}
+	}
+	&-green{
+		background-color:#15CD4D;
+		transition-property: background, color;
+		&:hover{
+			color:#15CD4D;
+			background:white;
+		}
+	}
+	&-red{
+		background:$red;
+		color:white;
+		border:1px solid $red;
+		transition:all 0.3s ease-in-out;
+		transition-property: background, color;
+		&:hover , &:focus{
+			color:$red;
+			background:white;
+		}
+	}
+	
+	&-small{
+		padding:10px 20px;
+		font-size: 16px;
+		color: white;
+		text-transform:uppercase;
+	}
+	&-small01{
+		width: 140px;
+		height: 40px;
+		font-size: 16px;
+		color: white;
+		text-align: center;
+		display: block;
+		line-height: 40px;
+		border-radius: 5px;
+		vertical-align: middle;
+		text-transform: uppercase;
+	}
+	&-blackLight{
+		font-size: 16px;
+		color: white;
+		height: 40px;
+		text-transform:uppercase;
+		background:$blackLight;
+		display:inline-block;
+		width:180px;
+		text-align:center;
+		line-height:40px;
+		border:1px solid $blackLight;
+		transition-property: background, color;
+		&:hover{
+			color:$blackLight;
+			background:white;
+		}
+	}
+	&-addcart{
+		font-size: 14px;
+		color: white;
+		height: 40px;
+		line-height:40px;
+		text-transform:uppercase;
+		background:$red;
+		display:block;
+		text-align:center;
+		width:180px;
+		position:relative;
+		transition-property: background;
+		border-radius:0px;
+		&:after {
+			position:absolute;
+			font-family:FontAwesome;
+			content:'\f07a';
+			right:-23px;
+			color:white;
+			top:-1px;
+			transition: right 0.3s ease-in-out;
+		}
+		&:hover , &:focus{
+			background:darken($red ,5% );
+			color:white;
+			outline:none;
+			text-decoration:none;
+			&:after{
+				right:15px;
+
+			}
+		}	
+	}
+	&-fav{
+		@include fonts($openSans,14px,400,$paragraph-grey);	
+		font-size: 16px;
+		font-family: $openSans;
+		height: 40px;
+		width:200px;
+		line-height:40px;
+		text-transform:uppercase;
+		background:white;
+		display:block;
+		text-align:center;
+		position:relative;
+		border:0px;
+		transition-property: color;
+		z-index:2;
+		&:before{
+			position:absolute;
+			font-family:FontAwesome;
+			content:'\f004';
+			color:$red;
+			left:15px;
+			top:0px;
+			transition:color 0.4s ease-in-out;
+		}
+		&:after{
+			position:absolute;
+			content: '';
+			background:$red;
+			bottom:0;
+			left:0;
+			right:0;
+			top:100%;
+			z-index:-1;
+			transition:top 0.4s ease-in-out;
+		}
+		&:hover{
+			color:white;
+			outline:0px;
+			&:before{
+				color:white;
+			}
+			&:after{
+				top:0;
+			}
+			
+		}
+	}
+	
+}
+@include respond-to('xs') {
+	.btn{
+		padding:15px 80px;
+	}
+}
+

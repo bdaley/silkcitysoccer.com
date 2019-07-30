@@ -1,0 +1,30 @@
+
+
+.innerbanner{
+	height:600px;
+	  position: relative;
+	  overflow: hidden;
+	  background: url(/images/background/innerpageBg.jpg) center no-repeat; /* Image Credit: Unsplash.me */
+	  background-size: cover;
+	  background-attachment: fixed;
+}
+.innerbannerwrap{
+	position:relative;
+	   .content{
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		    right: 0;
+		    bottom: 0;
+	    }
+		h2{
+	  		transform:translate(-50% , -50%);
+	  	    display: inline-block;
+	  	    text-align: center;
+	  	    position: absolute;
+	  	    top: 50%;
+	  	    left: 50%;
+	  	    color: #fff;
+	  	    z-index: 2;
+		}
+}

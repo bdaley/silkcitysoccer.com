@@ -1,0 +1,71 @@
+.clubHistoryWrapper{
+	padding:0 15px;
+	h4{
+		@include fonts($oswald, 28px , 400 , $red);
+		margin:60px 0 0px;
+	}
+	p{
+		padding:30px 0 0;
+	}
+}
+.quote{
+	width:100%;
+	float:left;
+	p{
+		font-style:italic;
+		width:90%;
+		padding:0px 15px;
+		float:right;
+		margin:30px 0;
+		position:relative;
+		border-left:2px solid $red;
+
+	}
+}
+
+.accordion-history{
+	margin:30px 0;
+	.clubHead{
+		a{
+			display:block;
+			@include fonts($openSans , 14px , 400 , $paragraph-grey);
+			border-top:1px solid #ddd;
+			text-decoration:none;
+			padding:10px 20px;	
+			position:relative;
+			
+			&:after{
+ 				font-family: 'FontAwesome';
+				content:'\f0d7';
+				position:absolute;
+				left:5px;
+				line-height:20px;
+				font-size:20px;
+				color:black;
+				transition:transform 0.3s ease-in-out;
+
+			}
+			&.collapsed:after{
+				content:'\f0da';
+				transition:transform 0.3s ease-in-out;
+			}
+		}
+	}
+	.panel-body{
+		border:0px;
+		p{
+			padding:0;
+		}
+		
+	}
+}
+
+@media screen and (min-width:$screen-md){
+	.accordion-history{
+		width:50%;
+	}
+	.clubHistoryWrapper { padding:0; }
+	.accordion-history{
+		margin:30px 0;	
+	}
+}

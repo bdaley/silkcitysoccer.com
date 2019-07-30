@@ -1,0 +1,91 @@
+.booking{
+	padding:70px 0;
+	&-fig{
+		padding-top:40px;
+		@include make-md-column(5);
+		h2{
+			@include fonts($oswald,30px,400,$black);
+			text-transform:uppercase;
+			text-align:center;
+			position:relative;
+			&:after{
+				position: absolute;
+			    background: url("/images/logo.png");
+			    content: '';
+			   	width: 140px;
+			    top: -119px;
+			    left:25%;
+			    height: auto;
+			    transform: scale(0.5);
+			    background-repeat: no-repeat;
+			    display: inline-block;
+			    height: 163px;
+			}
+		}
+	}
+	&-content{
+		@include make-md-column(7);
+		text-align:center;
+		a{
+			margin:5px 0;
+		}
+	}
+}
+@media screen and(min-width:$screen-xs){
+	.booking{
+		&-fig{
+			padding-bottom:40px;
+			h2{
+				text-align:center;
+				&:after{
+					left:0px;
+					transform: scale(0.5);
+					top: -50px;
+				}
+			}
+		}
+	}
+}
+@media screen and (min-width:$screen-sm){
+	.booking{
+		&-fig{
+			padding-top:0;
+			h2{
+				font-size:40px;
+				text-align:center;
+				&:after{
+					left:-4px;
+					transform: scale(0.7);
+				}
+			}
+		}
+	}
+
+}
+@media screen and (min-width:$screen-md){
+	.booking-fig {
+		padding:0;
+		h2{
+			text-align:right;
+
+			&:after{
+				left:-60px;
+			}
+
+		}
+	}
+
+}
+@media screen and (min-width:$screen-lg){
+	.booking-fig{
+		padding:0 15px;
+		 h2:after{
+			left:-50px;
+		}
+	}
+}
+@include respond-to('xs') {
+	.booking-content a{
+		margin-right:40px;
+	}
+}

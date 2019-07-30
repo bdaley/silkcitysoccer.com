@@ -1,0 +1,55 @@
+.achivement-dtl{
+	li{
+		height:auto;
+		&:first-of-type{
+			h3 {
+				text-transform:uppercase;
+				@include fonts($oswald , 35px , 400, white);
+			}
+			h6{
+				@include fonts($oswald , 16px , 400 , $red);
+			}
+		}
+		&:nth-of-type(2){
+		    background-image: url("/images/awards/award-d01.jpg");
+		    background-size: cover;
+		    background-position: top center;
+		    background-repeat: no-repeat;
+			height:500px;
+		}
+		&:last-of-type{
+			padding:50px;
+		}
+		.details{
+			padding:30px 0;
+			p{
+				padding:20px 0 0;
+				color:$blackBlue;
+			}
+		}
+		.bio_player{
+			border:none;
+			div { @include fonts($oswald , 20px ,400 ,$blackBlue); }
+			span{
+				@include fonts($oswald , 16px , 400 , $red);
+				margin-right:10px;
+			}
+		}
+
+	}
+}
+.award_tag{
+	text-align:center;
+	@include fonts($oswald , 28px , 400 , white);
+	background:$red;
+	text-transform:uppercase;
+	padding:20px 0;
+}
+
+@media screen and (min-width:$screen-md){
+	.achivement-dtl{
+		li{
+			height:500px;
+		}
+	}
+}

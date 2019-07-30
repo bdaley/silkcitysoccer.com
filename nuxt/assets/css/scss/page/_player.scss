@@ -1,0 +1,299 @@
+.playerDetailsPage-info{
+
+	li{
+		@include make-md-column(4);
+		height:auto;
+		&:first-of-type{
+			padding:50px;
+			@include backgrounds(url('/images/background/heroesBg.jpg'),cover,top center,no-repeat);
+			h2{
+				@include fonts($oswald , 80px , 400 , $red);
+				line-height:80px;
+			}
+			h3{
+				@include fonts($oswald , 40px , 400 , $white);
+				text-transform:capitalize;
+			}
+
+		}
+		&:nth-of-type(2){
+			@include backgrounds(url('/images/player/player01.jpg'),cover,top center,no-repeat);
+			height:600px;
+		}
+		&:last-of-type{
+			@include backgrounds(url('/images/background/heroesBg.jpg'),cover,top center,no-repeat);
+			padding:0;
+			h5{
+				@include fonts($oswald , 40px , 400 , $blackBlue);
+				padding:40px 0 0px 50px;
+			}
+			p{
+				color:$blackBlue;
+				padding:10px 50px ;
+			}
+		}
+		.playersocial{
+			padding:15px 0;
+			text-align:center;
+			background:#000;
+			a{
+				background:$blackBlue;
+				border:none;
+				color:#000;
+			}
+		}
+
+	}
+}
+.evntp{
+	@include fonts($oswald, 30px, 400, $red);
+	text-transform:uppercase;
+}
+.eventsub{
+	@include fonts($oswald, 20px, 400, #6b7c8f);
+}
+.bio_player{
+	padding:20px 0;
+	border-top:1px solid $blackBlue;
+	border-bottom:1px solid $blackBlue;
+	div{
+		@include fonts($oswald,16px , 400 , $white);
+		text-transform:uppercase;
+		padding:10px 0;
+		span{
+			margin-right:20px;
+			color:$blackBlue;
+		}
+	}
+}
+.player_cart{
+	padding:20px 0;
+	display:block;
+	i{
+		font-size:18px;
+		width:35px;
+		height:35px;
+		background:$red;
+		border-radius:50%;
+		color:white;
+		padding:8.5px 0;
+		text-align:center;
+	}
+	span{
+		margin-left:20px;
+		@include fonts($openSans,14px , 400 , $blackBlue);
+	}
+}
+
+
+.information_section{
+	@include make-md-column(12);
+}
+@media screen and (min-width:$screen-sm){
+	.information_section{ padding:70px 0 20px; }
+}
+
+/* --------------- score board ------------*/
+
+.scoresBoard{
+	width:100%;
+	float:left;
+}
+.sb_header{
+	padding:60px 0px 30px 50px;
+	border-top:10px solid $red;
+	h4{
+		@include fonts($oswald , 26px , 400 , $black);
+	}
+}
+
+.sb_body{
+	width:100%;
+	float:left;
+}
+.first-column{
+	width:20%;
+	float: left;
+	@include fonts($oswald , 15px ,400, $black);
+	text-transform:uppercase;
+	border-right:1px solid $light-grey;
+	@include make-md-column(1);
+
+	padding:0;
+	& >  div{
+		width:100%;
+		padding:20px 0;
+		&:first-of-type{
+			border-bottom:1px solid $light-grey;
+			height:60px;
+		}
+
+	}
+}
+
+.second-column{
+	width:100%;
+	float:left;
+	@include make-md-column(2);
+	padding:0;
+	text-align:center;
+	& > div{
+		border-bottom:1px solid $light-grey;
+		border-right:1px solid $light-grey;
+		height:60px;
+		text-transform:uppercase;
+		@include fonts($oswald , 15px , 400 , $red);
+		position:relative;
+		a{
+			&:after{
+				position:absolute;
+				color:$light-grey;
+				content:'';
+				font-family: 'FontAwesome';
+				color:$red;
+				font-size:15px;
+				top:0;
+			}
+			&.prevScore:after{
+				content:'\f060';
+				left:0;
+			}
+			&.nextScore:after{
+				content:'\f061';
+				right:0;
+			}
+		}
+	}
+	ul{
+		width:100%;
+		float: left;
+		@include fonts($openSans , 15px , 600 , $sb-data);
+		li{
+			width:50%;
+			float: left;
+			padding: 20px 0;
+			text-align:center;
+			border-right:1px solid $light-grey;
+		}
+		&:first-of-type{
+			@include fonts($openSans , 15px , 400 , $red);
+		}
+	}
+}
+
+@media screen and (min-width:$screen-xs){
+	.first-column{
+		font-size:22px;
+	}
+	.second-column{
+		& > div{
+			font-size:26px;
+		}
+		ul{
+			font-size:24px;
+			&:first-of-type{
+				font-size:20px;
+			}
+			a{
+				&:after{
+					top:10%;
+					font-size:20px;
+				}
+				&.prevScore:after{
+					left:10%;
+				}
+				&.nextScore:after{
+					right:10%;
+				}
+			}
+		}
+	}
+}
+@media screen and (min-width:$screen-md){
+	.sb_body{
+		padding:60px 0px 30px 50px;
+	}
+
+}
+@media screen and (max-width: $screen-md - 1){
+	.wrapper-score-scrollbar{
+		overflow:hidden;
+		float: left;
+		width:40%;
+	}
+	.first-column{
+		text-align:center;
+	}
+	.total{
+
+		width:40%;
+		@include make-md-column(2);
+	}
+	.second-column{
+		display:inline-block;
+		float:none;
+	}
+}
+/* ------------- player year ------------*/
+
+.yr_accordion{
+	padding:20px 15px 30px;
+	li{
+		width:32%;
+		float:left;
+		text-align:center;
+		border:1px solid $black;
+		padding:10px 0;
+		margin-right:2px;
+
+		a{
+			@include fonts($oswald , 20px ,400, $black);
+			display:block;
+
+		}
+		&.active{
+			background:$red;
+			a{
+				color:white;
+			}
+		}
+	}
+}
+.information-wrap{
+	.tab-pane{
+		display:none;
+		&.active{
+			display:block;
+		}
+	}
+}
+@media screen and (min-width:$screen-md){
+	.yr_accordion{
+		padding:50px 0;
+		li{
+			transition:all 0.4s ease-in-out;
+			a{
+				transition:all 0.4s ease-in-out;
+			}
+			&:hover {
+				background:$red;
+				a { color:white; }
+			}
+		}
+	}
+	.playerDetailsPage-info{
+		li{
+			height:600px;
+		}
+	}
+	.second-column{
+		& > div {
+			a.prevScore:after , a.nextScore:after{
+				content:initial;
+				opacity:0;
+			}
+		}
+	}
+}
+
+

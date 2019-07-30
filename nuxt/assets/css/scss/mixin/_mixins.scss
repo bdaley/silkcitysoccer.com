@@ -1,0 +1,20 @@
+@import 'breakpoints';
+@import 'font-size';
+@mixin row() {
+	float:left;
+	width:100%;
+}
+
+// font _mixins
+@mixin fonts($family, $size, $weight, $color) {
+  font-family: $family;
+  font-size: $size;
+  color: $color;
+  font-weight: $weight;
+}
+@mixin backgrounds($image,$size,$position,$repeat){
+	background-image:$image;
+	background-size:$size;
+	background-position:$position;
+	background-repeat:$repeat;
+}
