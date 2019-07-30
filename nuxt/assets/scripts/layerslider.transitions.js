@@ -10,4 +10,4338 @@
 
 
 
-;eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('20 1Z={27:[{j:"13 N E",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"1e",a:G,h:"r"}},{j:"13 N r",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"1e",a:G,h:"E"}},{j:"13 N L",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"1e",a:G,h:"J"}},{j:"13 N J",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"1e",a:G,h:"L"}},{j:"26",d:1,g:1,f:{e:0,i:"o"},c:{n:"14",b:"1e",a:G,h:"r"}},{j:"Z R o",d:[2,4],g:[4,7],f:{e:1k,i:"o"},c:{n:"14",b:"z",a:G,h:"r"}},{j:"Z R D",d:[2,4],g:[4,7],f:{e:1k,i:"D"},c:{n:"14",b:"z",a:G,h:"r"}},{j:"Z R 1j-o",d:[2,4],g:[4,7],f:{e:1k,i:"1j-o"},c:{n:"14",b:"z",a:G,h:"r"}},{j:"Z R 1j-D",d:[2,4],g:[4,7],f:{e:1k,i:"1j-D"},c:{n:"14",b:"z",a:G,h:"r"}},{j:"Z R (k)",d:[2,4],g:[4,7],f:{e:1k,i:"k"},c:{n:"14",b:"z",a:G,h:"r"}},{j:"1y 1H N E",d:1,g:1s,f:{e:25,i:"D"},c:{n:"14",b:"1X",a:V,h:"r"}},{j:"1y 1H N r",d:1,g:1s,f:{e:25,i:"o"},c:{n:"14",b:"w",a:V,h:"r"}},{j:"1y 1H N L",d:1s,g:1,f:{e:25,i:"1j-D"},c:{n:"14",b:"w",a:V,h:"r"}},{j:"1y 1H N J",d:1s,g:1,f:{e:25,i:"1j-o"},c:{n:"14",b:"w",a:V,h:"r"}},{j:"1y Y N E",d:1,g:25,f:{e:1k,i:"D"},c:{n:"W",b:"w",a:1g,h:"r"}},{j:"1y Y N r",d:1,g:25,f:{e:1k,i:"o"},c:{n:"W",b:"w",a:1g,h:"E"}},{j:"1y 1W N L",d:25,g:1,f:{e:1k,i:"1j-D"},c:{n:"W",b:"w",a:1g,h:"J"}},{j:"1y Y N J",d:25,g:1,f:{e:1k,i:"1j-o"},c:{n:"W",b:"w",a:1g,h:"L"}},{j:"13 R m E (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"W",b:"z",a:1m,h:"E"}},{j:"13 R m r (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"W",b:"z",a:1m,h:"r"}},{j:"13 R m L (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"W",b:"z",a:1m,h:"L"}},{j:"13 R m J (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"W",b:"z",a:1m,h:"J"}},{j:"13 k R m k 1S",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"W",b:"z",a:1m,h:"k"}},{j:"13 d m E (o)",d:[7,11],g:1,f:{e:1d,i:"o"},c:{n:"W",b:"w",a:p,h:"E"}},{j:"13 d m E (D)",d:[7,11],g:1,f:{e:1d,i:"D"},c:{n:"W",b:"w",a:p,h:"E"}},{j:"13 d m E (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"W",b:"w",a:p,h:"E"}},{j:"13 d m r (o)",d:[7,11],g:1,f:{e:1d,i:"o"},c:{n:"W",b:"w",a:p,h:"r"}},{j:"13 d m r (D)",d:[7,11],g:1,f:{e:1d,i:"D"},c:{n:"W",b:"w",a:p,h:"r"}},{j:"13 d m r (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"W",b:"w",a:p,h:"r"}},{j:"13 d N J m L (o)",d:[7,11],g:1,f:{e:1d,i:"o"},c:{n:"W",b:"w",a:p,h:"L"}},{j:"13 d N J m L (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"W",b:"w",a:p,h:"L"}},{j:"13 d N L m J (D)",d:[7,11],g:1,f:{e:1d,i:"D"},c:{n:"W",b:"w",a:p,h:"J"}},{j:"13 d N L m J (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"W",b:"w",a:p,h:"J"}},{j:"13 P m L (o)",d:1,g:[12,16],f:{e:q,i:"o"},c:{n:"W",b:"w",a:p,h:"L"}},{j:"13 P m L (D)",d:1,g:[12,16],f:{e:q,i:"D"},c:{n:"W",b:"w",a:p,h:"L"}},{j:"13 P m L (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"W",b:"w",a:p,h:"L"}},{j:"13 P m J (o)",d:1,g:[12,16],f:{e:q,i:"o"},c:{n:"W",b:"w",a:p,h:"J"}},{j:"13 P m J (D)",d:1,g:[12,16],f:{e:q,i:"D"},c:{n:"W",b:"w",a:p,h:"J"}},{j:"13 P m J (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"W",b:"w",a:p,h:"J"}},{j:"13 P N r m E (o)",d:1,g:[12,16],f:{e:q,i:"o"},c:{n:"W",b:"w",a:p,h:"E"}},{j:"13 P N r m E (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"W",b:"w",a:p,h:"E"}},{j:"13 P N E m r (D)",d:1,g:[12,16],f:{e:q,i:"D"},c:{n:"W",b:"w",a:p,h:"r"}},{j:"13 P N E m r (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"W",b:"w",a:p,h:"r"}},{j:"Z v Y R m E (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"E"}},{j:"Z v Y R m r (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"r"}},{j:"Z v Y R m L (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"L"}},{j:"Z v Y R m J (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"J"}},{j:"Z v Y k R m k 1S",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"k"}},{j:"Z v Y R N J-r (o)",d:[2,4],g:[4,7],f:{e:1f,i:"o"},c:{n:"Q",b:"z",a:1m,h:"1V"}},{j:"Z v Y R N L-E (D)",d:[2,4],g:[4,7],f:{e:1f,i:"D"},c:{n:"Q",b:"z",a:1m,h:"21"}},{j:"Z v Y R N J-E (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"1T"}},{j:"Z v Y R N L-r (k)",d:[2,4],g:[4,7],f:{e:1f,i:"k"},c:{n:"Q",b:"z",a:1m,h:"1U"}},{j:"Z v Y d m E (o)",d:[7,11],g:1,f:{e:1d,i:"o"},c:{n:"Q",b:"w",a:p,h:"E"}},{j:"Z v Y d m E (D)",d:[7,11],g:1,f:{e:1d,i:"D"},c:{n:"Q",b:"w",a:p,h:"E"}},{j:"Z v Y d m E (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"Q",b:"w",a:p,h:"E"}},{j:"Z v Y d m r (o)",d:[7,11],g:1,f:{e:1d,i:"o"},c:{n:"Q",b:"w",a:p,h:"r"}},{j:"Z v Y d m r (D)",d:[7,11],g:1,f:{e:1d,i:"D"},c:{n:"Q",b:"w",a:p,h:"r"}},{j:"Z v Y d m r (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"Q",b:"w",a:p,h:"r"}},{j:"Z v Y d N J m L (o)",d:[7,11],g:1,f:{e:1d,i:"o"},c:{n:"Q",b:"w",a:p,h:"L"}},{j:"Z v Y d N J m L (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"Q",b:"w",a:p,h:"L"}},{j:"Z v Y d N L m J (D)",d:[7,11],g:1,f:{e:1d,i:"D"},c:{n:"Q",b:"w",a:p,h:"J"}},{j:"Z v Y d N L m J (k)",d:[7,11],g:1,f:{e:1d,i:"k"},c:{n:"Q",b:"w",a:p,h:"J"}},{j:"Z v Y P m L (o)",d:1,g:[12,16],f:{e:q,i:"o"},c:{n:"Q",b:"w",a:p,h:"L"}},{j:"Z v Y P m L (D)",d:1,g:[12,16],f:{e:q,i:"D"},c:{n:"Q",b:"w",a:p,h:"L"}},{j:"Z v Y P m L (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"Q",b:"w",a:p,h:"L"}},{j:"Z v Y P m J (o)",d:1,g:[12,16],f:{e:q,i:"o"},c:{n:"Q",b:"w",a:p,h:"J"}},{j:"Z v Y P m J (D)",d:1,g:[12,16],f:{e:q,i:"D"},c:{n:"Q",b:"w",a:p,h:"J"}},{j:"Z v Y P m J (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"Q",b:"w",a:p,h:"J"}},{j:"Z v Y P N r m E (o)",d:1,g:[12,16],f:{e:q,i:"o"},c:{n:"Q",b:"w",a:p,h:"E"}},{j:"Z v Y P N r m E (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"Q",b:"w",a:p,h:"E"}},{j:"Z v Y P N E m r (D)",d:1,g:[12,16],f:{e:q,i:"D"},c:{n:"Q",b:"w",a:p,h:"r"}},{j:"Z v Y P N E m r (k)",d:1,g:[12,16],f:{e:q,i:"k"},c:{n:"Q",b:"w",a:p,h:"r"}},{j:"1u",d:1,g:1,f:{e:0,i:"o"},c:{n:"Q",b:"1e",a:V,h:"r",1h:.5}},{j:"1u d",d:4,g:1,f:{e:1f,i:"o"},c:{n:"Q",b:"1e",a:V,h:"r",1h:.5}},{j:"1u g",d:1,g:4,f:{e:1f,i:"o"},c:{n:"Q",b:"1e",a:V,h:"r",1h:.5}},{j:"1u R A",d:3,g:4,f:{e:1s,i:"o"},c:{n:"Q",b:"1e",a:V,h:"r",1h:.5,y:x}},{j:"1u R F",d:3,g:4,f:{e:1s,i:"o"},c:{n:"Q",b:"1e",a:V,h:"J",1h:.5,u:-x}},{j:"1u-1I R A",d:3,g:4,f:{e:15,i:"o"},c:{n:"Q",b:"1e",a:V,h:"r",1h:.5,y:x}},{j:"1u-1I R F",d:3,g:4,f:{e:15,i:"o"},c:{n:"Q",b:"1e",a:V,h:"J",1h:.5,u:-x}},{j:"1u 1I d",d:4,g:1,f:{e:1f,i:"o"},c:{n:"Q",b:"1e",a:V,h:"E",1h:.5}},{j:"1u 1I g",d:1,g:4,f:{e:1f,i:"o"},c:{n:"Q",b:"1e",a:V,h:"r",1h:.5}},{j:"1c f N r",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"z",a:V,h:"E",y:x}},{j:"1c f N E",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"z",a:V,h:"r",y:-x}},{j:"1c f N J",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"z",a:V,h:"L",u:-x}},{j:"1c f N L",d:1,g:1,f:{e:0,i:"o"},c:{n:"W",b:"z",a:V,h:"J",u:x}},{j:"1c R N r",d:[3,4],g:[3,4],f:{e:19,i:"o"},c:{n:"14",b:"z",a:V,h:"r",y:x}},{j:"1c R N E",d:[3,4],g:[3,4],f:{e:19,i:"D"},c:{n:"14",b:"z",a:V,h:"r",y:-x}},{j:"1c R N J",d:[3,4],g:[3,4],f:{e:19,i:"o"},c:{n:"14",b:"z",a:V,h:"r",u:-x}},{j:"1c R N L",d:[3,4],g:[3,4],f:{e:19,i:"D"},c:{n:"14",b:"z",a:V,h:"r",u:x}},{j:"1c d N J",d:[6,12],g:1,f:{e:19,i:"o"},c:{n:"14",b:"z",a:V,h:"r",u:x}},{j:"1c d N L",d:[6,12],g:1,f:{e:19,i:"D"},c:{n:"14",b:"z",a:V,h:"r",u:-x}},{j:"1c g N r",d:1,g:[6,12],f:{e:19,i:"o"},c:{n:"14",b:"z",a:V,h:"r",y:-x}},{j:"1c g N E",d:1,g:[6,12],f:{e:19,i:"D"},c:{n:"14",b:"z",a:V,h:"r",y:x}},{j:"1v d N r",d:[3,10],g:1,f:{e:19,i:"o"},c:{n:"14",b:"z",a:V,h:"r",y:x}},{j:"1v d N E",d:[3,10],g:1,f:{e:19,i:"D"},c:{n:"14",b:"z",a:V,h:"r",y:-x}},{j:"1v g N J",d:1,g:[3,10],f:{e:19,i:"o"},c:{n:"14",b:"z",a:V,h:"r",u:-x}},{j:"1v g N L",d:1,g:[3,10],f:{e:19,i:"D"},c:{n:"14",b:"z",a:V,h:"r",u:x}},{j:"1v v 1z f N r",d:1,g:1,f:{e:q,i:"o"},c:{n:"Q",b:"z",a:V,h:"E",1h:.1,1r:-x,y:x}},{j:"1v v 1z f N E",d:1,g:1,f:{e:q,i:"o"},c:{n:"Q",b:"z",a:V,h:"r",1h:.1,1r:x,y:-x}},{j:"1v v 1z R N r",d:[3,4],g:[3,4],f:{e:19,i:"o"},c:{n:"Q",b:"z",a:V,h:"E",1r:-1w}},{j:"1v v 1z R N E",d:[3,4],g:[3,4],f:{e:19,i:"o"},c:{n:"Q",b:"z",a:V,h:"r",1r:-1w}},{j:"1v v 1z R N k",d:[3,4],g:[3,4],f:{e:19,i:"k"},c:{n:"Q",b:"z",a:V,h:"k",1r:-1w}},{j:"B f 1O",d:1,g:1,f:{e:0,i:"o"},c:{n:"14",b:"z",a:1a,h:"r",1h:.8}},{j:"B f N 1L",d:1,g:1,f:{e:0,i:"o"},c:{n:"14",b:"w",a:1a,h:"r",1h:1.2}},{j:"B R k",d:[3,4],g:[3,4],f:{e:1s,i:"k"},c:{n:"14",b:"z",a:V,h:"r",1h:.1}},{j:"B R N 1L k",d:[3,4],g:[3,4],f:{e:1s,i:"k"},c:{n:"14",b:"z",a:V,h:"r",1h:2}},{j:"B 1O v 1z R k",d:[3,4],g:[3,4],f:{e:1s,i:"k"},c:{n:"14",b:"z",a:V,h:"r",1h:.1,1r:x}},{j:"B v 1z R N 1L k",d:[3,4],g:[3,4],f:{e:1s,i:"k"},c:{n:"14",b:"z",a:V,h:"r",1h:2,1r:-x}},{j:"1D-Y R 24",d:3,g:4,f:{e:15,i:"o"},c:{n:"W",b:"w",a:1Y,h:"1T"}},{j:"1D-Y d A",d:6,g:1,f:{e:0,i:"o"},c:{n:"Q",b:"z",a:V,h:"r"}},{j:"1D-Y d F",d:6,g:1,f:{e:0,i:"o"},c:{n:"Q",b:"z",a:V,h:"J"}},{j:"1D-Y g A",d:1,g:8,f:{e:0,i:"o"},c:{n:"Q",b:"z",a:V,h:"r"}},{j:"1D-Y g F",d:1,g:8,f:{e:0,i:"o"},c:{n:"Q",b:"z",a:V,h:"J"}}],23:[{j:"1b f m E (l&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{y:1E},b:"1F",a:G,h:"A"},C:{c:{y:l},b:"z",a:G,h:"A"}},{j:"1b f m r (l&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{y:-1E},b:"1F",a:G,h:"A"},C:{c:{y:-l},b:"z",a:G,h:"A"}},{j:"1b f m L (l&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{u:-1E},b:"1F",a:1x,h:"F"},C:{c:{u:-l},b:"z",a:1x,h:"F"}},{j:"1b f m J (l&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{u:1E},b:"1F",a:1x,h:"F"},C:{c:{u:l},b:"z",a:1x,h:"F"}},{j:"1b R m E (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"o"},s:{c:{y:l},b:"w",a:G,h:"A"}},{j:"1b R m r (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"D"},s:{c:{y:-l},b:"w",a:G,h:"A"}},{j:"1b R m L (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"1j-o"},s:{c:{u:-l},b:"w",a:G,h:"F"}},{j:"1b R m J (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"1j-D"},s:{c:{u:l},b:"w",a:G,h:"F"}},{j:"1B S R k (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"k"},s:{c:{y:l},b:"w",a:1G,h:"A"}},{j:"1C S R k (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"k"},s:{c:{u:l},b:"w",a:1G,h:"F"}},{j:"B v S R m E (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"o"},M:{c:{I:.1A},a:1l,b:"18"},s:{c:{y:l},b:"H",a:G,h:"A"},C:{a:1g,b:"H"}},{j:"B v S R m r (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"D"},M:{c:{I:.1A},a:1l,b:"18"},s:{c:{y:-l},b:"H",a:G,h:"A"},C:{a:1g,b:"H"}},{j:"B v S R m L (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"1j-o"},M:{c:{I:.1A},a:1l,b:"18"},s:{c:{u:-l},b:"H",a:G,h:"F"},C:{a:1g,b:"H"}},{j:"B v S R m J (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"1j-D"},M:{c:{I:.1A},a:1l,b:"18"},s:{c:{u:l},b:"H",a:G,h:"F"},C:{a:1g,b:"H"}},{j:"B v A S R k (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"k"},M:{c:{I:.1A,u:1k},a:1l,b:"18"},s:{c:{y:l,u:-1k},b:"H",a:1G,h:"A"},C:{c:{u:0},a:1g,b:"H"}},{j:"B v F S R k (l&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"k"},M:{c:{I:.1A,y:-15},a:1l,b:"18"},s:{c:{u:l,y:15},b:"H",a:1G,h:"F"},C:{c:{y:0},a:1g,b:"H"}},{j:"1b d m E (l&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},s:{c:{y:l},b:"w",a:1a,h:"A"}},{j:"1b d m r (l&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},s:{c:{y:-l},b:"w",a:1a,h:"A"}},{j:"1b d m L (l&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},s:{c:{u:-l},b:"w",a:G,h:"F"}},{j:"1b d m J (l&#t;)",d:[5,9],g:1,f:{e:q,i:"D"},s:{c:{u:l},b:"w",a:G,h:"F"}},{j:"1B S d k (l&#t;)",d:[5,9],g:1,f:{e:q,i:"k"},s:{c:{y:l},b:"w",a:1a,h:"A"}},{j:"1C S d k (l&#t;)",d:[5,9],g:1,f:{e:q,i:"k"},s:{c:{u:-l},b:"w",a:1a,h:"F"}},{j:"1C S d k (1J&#t;)",d:[3,7],g:1,f:{e:1Q,i:"k"},s:{c:{u:-1J},b:"w",a:1R,h:"F"}},{j:"B v S d m E (l&#t;)",d:[5,9],g:1,f:{e:19,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:l},b:"H",a:1p,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v S d m r (l&#t;)",d:[5,9],g:1,f:{e:19,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:-l},b:"H",a:1p,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v S d m L (l&#t;)",d:[5,9],g:1,f:{e:19,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"w",a:p,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v S d m J (l&#t;)",d:[5,9],g:1,f:{e:19,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:l},b:"w",a:p,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v A S d k (l&#t;)",d:[5,9],g:1,f:{e:19,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:l},b:"H",a:1p,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v F S d k (l&#t;)",d:[5,9],g:1,f:{e:19,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"H",a:p,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"1b P m E (l&#t;)",d:1,g:[5,9],f:{e:q,i:"o"},s:{c:{y:l},b:"w",a:1a,h:"A"}},{j:"1b P m r (l&#t;)",d:1,g:[5,9],f:{e:q,i:"o"},s:{c:{y:-l},b:"w",a:1a,h:"A"}},{j:"1b P m L (l&#t;)",d:1,g:[5,9],f:{e:q,i:"o"},s:{c:{u:-l},b:"w",a:G,h:"F"}},{j:"1b P m J (l&#t;)",d:1,g:[5,9],f:{e:q,i:"D"},s:{c:{u:l},b:"w",a:G,h:"F"}},{j:"1B S P k (l&#t;)",d:1,g:[5,9],f:{e:q,i:"k"},s:{c:{y:l},b:"w",a:1a,h:"A"}},{j:"1C S P k (l&#t;)",d:1,g:[5,9],f:{e:q,i:"k"},s:{c:{u:-l},b:"w",a:1a,h:"F"}},{j:"1B S P k (1J&#t;)",d:1,g:[4,9],f:{e:1Q,i:"k"},s:{c:{y:1J},b:"w",a:1R,h:"A"}},{j:"B v S P m E (l&#t;)",d:1,g:[7,11],f:{e:19,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:l},b:"w",a:p,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v S P m r (l&#t;)",d:1,g:[7,11],f:{e:19,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:-l},b:"w",a:p,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v S P m L (l&#t;)",d:1,g:[7,11],f:{e:19,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"H",a:1p,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v S P m J (l&#t;)",d:1,g:[7,11],f:{e:q,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:l},b:"H",a:1p,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v A S P k (l&#t;)",d:1,g:[7,11],f:{e:q,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:l},b:"H",a:p,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v F S P k (l&#t;)",d:1,g:[7,11],f:{e:q,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"H",a:1p,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"1N 1P 1M v S m E (l&#t;)",d:1,g:[7,11],f:{e:q,i:"o"},M:{c:{I:.O,u:-1k},a:p,b:"z"},s:{c:{u:-1k,y:l},b:"w",a:G,h:"A"},C:{c:{u:0,e:X},b:"z",a:p}},{j:"1N 1P 1M v S m r (l&#t;)",d:1,g:[7,11],f:{e:q,i:"D"},M:{c:{I:.O,u:-1k},a:p,b:"z"},s:{c:{u:1k,y:-l},b:"w",a:G,h:"A"},C:{c:{u:0,e:X},b:"z",a:p}},{j:"1c 1t m E (x&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{y:x},b:"w",a:1a,h:"A"}},{j:"1c 1t m r (x&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{y:-x},b:"w",a:1a,h:"A"}},{j:"1c 1t m L (x&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{u:-x},b:"w",a:1a,h:"F"}},{j:"1c 1t m J (x&#t;)",d:1,g:1,f:{e:q,i:"o"},s:{c:{u:x},b:"w",a:1a,h:"F"}},{j:"B v 17 1t m E (x&#t;)",d:1,g:1,f:{e:q,i:"k"},s:{c:{I:.8,1r:7,u:10,y:1w},b:"1e",a:1x,h:"A"},C:{c:{1r:0,u:0,y:x},a:1x,b:"1e"}},{j:"B v 17 1t m r (x&#t;)",d:1,g:1,f:{e:q,i:"k"},s:{c:{I:.8,1r:-7,u:10,y:-1w},b:"1e",a:1x,h:"A"},C:{c:{1r:0,u:0,y:-x},a:1x,b:"1e"}},{j:"B v 17 1n m E (x&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"o"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{y:x},b:"H",a:G,h:"A"},C:{a:1g,b:"H"}},{j:"B v 17 1n m r (x&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"D"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{y:-x},b:"H",a:G,h:"A"},C:{a:1g,b:"H"}},{j:"B v 17 1n m L (x&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"1j-o"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{u:-x},b:"H",a:G,h:"F"},C:{a:1g,b:"H"}},{j:"B v 17 1n m J (x&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"1j-D"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{u:x},b:"H",a:G,h:"F"},C:{a:1g,b:"H"}},{j:"B v A 17 1n k (x&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"k"},M:{c:{I:.1i,u:-15},a:1o,b:"18"},s:{c:{y:q,u:15},b:"H",a:1o,h:"A"},C:{c:{y:x,u:0},a:1o,b:"H"}},{j:"B v F 17 1n k (x&#t;)",d:[2,4],g:[4,7],f:{e:q,i:"k"},M:{c:{I:.1i,y:15},a:1o,b:"18"},s:{c:{u:q,y:-15},b:"H",a:1o,h:"F"},C:{c:{u:x,y:0},a:1o,b:"H"}},{j:"1c d m E (x&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},s:{c:{y:x},b:"w",a:1a,h:"A"}},{j:"1c d m r (x&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},s:{c:{y:-x},b:"w",a:1a,h:"A"}},{j:"1B 17 d k (x&#t;)",d:[5,9],g:1,f:{e:q,i:"k"},s:{c:{y:x},b:"w",a:1a,h:"A"}},{j:"B v 17 d m E (x&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},M:{c:{I:.O,u:3},a:p,b:"K"},s:{c:{y:22,u:0},b:"H",a:G,h:"A"},C:{c:{e:X,y:x},b:"K",a:p}},{j:"B v 17 d m r (x&#t;)",d:[5,9],g:1,f:{e:q,i:"D"},M:{c:{I:.O,u:3},a:p,b:"K"},s:{c:{y:-x,u:0},b:"H",a:G,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v 17 d m L (x&#t;)",d:[5,9],g:1,f:{e:q,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-x},b:"H",a:G,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v 17 d m J (x&#t;)",d:[5,9],g:1,f:{e:q,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:x},b:"H",a:G,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v A 17 d k (x&#t;)",d:[5,9],g:1,f:{e:q,i:"k"},M:{c:{I:.O,u:3},a:p,b:"K"},s:{c:{y:x,u:0},b:"H",a:G,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v F 17 d k (x&#t;)",d:[5,9],g:1,f:{e:q,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-x},b:"H",a:G,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v A 17 1K d m E (x&#t;)",d:[7,11],g:1,f:{e:q,i:"o"},s:{c:{I:.O,u:5,y:1w},b:"18",a:G,h:"A"},C:{c:{u:0,y:x},b:"18",a:G}},{j:"B v A 17 1K d m r (x&#t;)",d:[7,11],g:1,f:{e:q,i:"D"},s:{c:{I:.O,u:5,y:-1w},b:"18",a:G,h:"A"},C:{c:{u:0,y:-x},b:"18",a:G}},{j:"1c P m L (x&#t;)",d:1,g:[5,9],f:{e:q,i:"o"},s:{c:{u:-x},b:"w",a:G,h:"F"}},{j:"1c P m J (x&#t;)",d:1,g:[5,9],f:{e:q,i:"D"},s:{c:{u:x},b:"w",a:G,h:"F"}},{j:"1C 17 P k (x&#t;)",d:1,g:[5,9],f:{e:q,i:"k"},s:{c:{u:-x},b:"w",a:G,h:"F"}},{j:"B v 17 P m L (x&#t;)",d:1,g:[7,11],f:{e:q,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-x},b:"H",a:G,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v 17 P m J (x&#t;)",d:1,g:[7,11],f:{e:q,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:x},b:"H",a:G,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v 17 P m E (x&#t;)",d:1,g:[7,11],f:{e:q,i:"o"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:x},b:"H",a:G,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v 17 P m r (x&#t;)",d:1,g:[7,11],f:{e:q,i:"D"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:-x},b:"H",a:G,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v A 17 P k (x&#t;)",d:1,g:[7,11],f:{e:q,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:x},b:"H",a:G,h:"A"},C:{c:{e:X},b:"K",a:p}},{j:"B v F 17 P k (x&#t;)",d:1,g:[7,11],f:{e:q,i:"k"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-x},b:"H",a:G,h:"F"},C:{c:{e:X},b:"K",a:p}},{j:"B v F 17 1K P m E (x&#t;)",d:1,g:[7,11],f:{e:q,i:"o"},s:{c:{I:.O,u:1w,y:-5},b:"18",a:G,h:"F"},C:{c:{u:x,y:0},b:"18",a:G}},{j:"B v F 17 1K P m r (x&#t;)",d:1,g:[7,11],f:{e:q,i:"D"},s:{c:{I:.O,u:-1w,y:-5},b:"18",a:G,h:"F"},C:{c:{u:-x,y:0},b:"18",a:G}},{j:"1b 1t m E (l&#t;, T U)",d:1,g:1,f:{e:q,i:"o",U:"T"},s:{c:{y:l},b:"w",a:1a,h:"A"}},{j:"1b 1t m r (l&#t;, T U)",d:1,g:1,f:{e:q,i:"o",U:"T"},s:{c:{y:-l},b:"w",a:1a,h:"A"}},{j:"1b 1t m L (l&#t;, T U)",d:1,g:1,f:{e:q,i:"o",U:"T"},s:{c:{u:-l},b:"w",a:1a,h:"F"}},{j:"1b 1t m J (l&#t;, T U)",d:1,g:1,f:{e:q,i:"o",U:"T"},s:{c:{u:l},b:"w",a:1a,h:"F"}},{j:"B v S 1n m E (l&#t;, T U)",d:[2,4],g:[4,7],f:{e:q,i:"o",U:"T"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{y:l},b:"H",a:G,h:"A"},C:{a:1g,b:"H"}},{j:"B v S 1n m r (l&#t;, T U)",d:[2,4],g:[4,7],f:{e:q,i:"D",U:"T"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{y:-l},b:"H",a:G,h:"A"},C:{a:1g,b:"H"}},{j:"B v S 1n m L (l&#t;, T U)",d:[2,4],g:[4,7],f:{e:q,i:"1j-o",U:"T"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{u:-l},b:"H",a:G,h:"F"},C:{a:1g,b:"H"}},{j:"B v S 1n m J (l&#t;, T U)",d:[2,4],g:[4,7],f:{e:q,i:"1j-D",U:"T"},M:{c:{I:.O},a:1l,b:"18"},s:{c:{u:l},b:"H",a:G,h:"F"},C:{a:1g,b:"H"}},{j:"B v A S 1n k (l&#t;, T U)",d:[2,4],g:[4,7],f:{e:q,i:"k",U:"T"},M:{c:{I:.1i},a:1o,b:"18"},s:{c:{y:l},b:"H",a:1o,h:"A"},C:{a:1o,b:"H"}},{j:"B v F S 1n k (l&#t;, T U)",d:[2,4],g:[4,7],f:{e:q,i:"k",U:"T"},M:{c:{I:.1i},a:1o,b:"18"},s:{c:{u:l},b:"H",a:1o,h:"F"},C:{a:1o,b:"H"}},{j:"B v S d m E (l&#t;, T U)",d:[5,9],g:1,f:{e:1i,i:"o",U:"T"},M:{c:{I:.O,u:3},a:p,b:"K"},s:{c:{y:l,u:-3},b:"w",a:1p,h:"A"},C:{c:{e:X,u:0},b:"z",a:1q}},{j:"B v S d m r (l&#t;, T U)",d:[5,9],g:1,f:{e:1i,i:"D",U:"T"},M:{c:{I:.O,u:3},a:p,b:"K"},s:{c:{y:-l,u:-3},b:"w",a:1p,h:"A"},C:{c:{e:X,u:0},b:"z",a:1q}},{j:"B v S d m L (l&#t;, T U)",d:[5,9],g:1,f:{e:1i,i:"o",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"H",a:G,h:"F"},C:{c:{e:X},b:"z",a:1q}},{j:"B v S d m J (l&#t;, T U)",d:[5,9],g:1,f:{e:1i,i:"D",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:l},b:"H",a:G,h:"F"},C:{c:{e:X},b:"z",a:1q}},{j:"B v A S d k (l&#t;, T U)",d:[5,9],g:1,f:{e:1i,i:"k",U:"T"},M:{c:{I:.O,u:3},a:p,b:"K"},s:{c:{y:l,u:-3},b:"w",a:1p,h:"A"},C:{c:{e:X,u:0},b:"z",a:1q}},{j:"B v F S d k (l&#t;, T U)",d:[5,9],g:1,f:{e:1i,i:"k",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"H",a:G,h:"F"},C:{c:{e:X},b:"z",a:1q}},{j:"B v S P m L (l&#t;, T U)",d:1,g:[7,11],f:{e:1i,i:"o",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"w",a:1p,h:"F"},C:{c:{e:X},b:"z",a:1q}},{j:"B v S P m J (l&#t;, T U)",d:1,g:[7,11],f:{e:1i,i:"D",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:l},b:"w",a:1p,h:"F"},C:{c:{e:X},b:"z",a:1q}},{j:"B v S P m E (l&#t;, T U)",d:1,g:[7,11],f:{e:1i,i:"o",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:l},b:"H",a:G,h:"A"},C:{c:{e:X},b:"z",a:1q}},{j:"B v S P m r (l&#t;, T U)",d:1,g:[7,11],f:{e:1i,i:"D",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:-l},b:"H",a:G,h:"A"},C:{c:{e:X},b:"z",a:1q}},{j:"B v A S P k (l&#t;, T U)",d:1,g:[7,11],f:{e:1i,i:"k",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{y:l},b:"H",a:G,h:"A"},C:{c:{e:X},b:"z",a:1q}},{j:"B v F S P k (l&#t;, T U)",d:1,g:[7,11],f:{e:1i,i:"k",U:"T"},M:{c:{I:.O},a:p,b:"K"},s:{c:{u:-l},b:"w",a:1p,h:"F"},C:{c:{e:X},b:"z",a:1q}}]}',62,132,'||||||||||duration|easing|transition|rows|delay|tile|cols|direction|sequence|name|random|180|to|type|forward|600|75|left|animation|176|rotateX|and|easeInOutQuart|90|rotateY|easeOutQuart|horizontal|Scaling|after|reverse|right|vertical|1e3|easeInOutBack|scale3d|top|easeOutBack|bottom|before|from|85|columns|mixed|tiles|spinning|large|depth|750|slide|200|sliding|Fading||||Sliding|fade|||turning|easeInOutQuint|55|1500|Spinning|Turning|100|easeInOutQuad|50|350|scale|65|col|30|450|500|cuboids|700|1200|400|rotate|35|cuboid|Carousel|Flying|45|800|Smooth|rotating|95|Horizontal|Vertical|Mirror|91|easeInQuart|1300|fading|mirror|540|drunk|out|scaling|Drunk|in|colums|150|2e3|directions|topright|bottomleft|topleft|sliging|linear|850|layerSliderTransitions|var|bottomright|87|t3d|diagonal||Crossfading|t2d'.split('|')));
+var layerSliderTransitions = {
+  t2d: [{
+    name: "Sliding from right",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuad",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Sliding from left",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuad",
+      duration: 1e3,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding from bottom",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuad",
+      duration: 1e3,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding from top",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuad",
+      duration: 1e3,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Crossfading",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeInOutQuad",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading tiles forward",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 30,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading tiles reverse",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 30,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading tiles col-forward",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 30,
+      sequence: "col-forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading tiles col-reverse",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 30,
+      sequence: "col-reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading tiles (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 30,
+      sequence: "random"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "left"
+    }
+  },
+  {
+    name: "Smooth fading from right",
+    rows: 1,
+    cols: 35,
+    tile: {
+      delay: 25,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "linear",
+      duration: 750,
+      direction: "left"
+    }
+  },
+  {
+    name: "Smooth fading from left",
+    rows: 1,
+    cols: 35,
+    tile: {
+      delay: 25,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeInOutQuart",
+      duration: 750,
+      direction: "left"
+    }
+  },
+  {
+    name: "Smooth fading from bottom",
+    rows: 35,
+    cols: 1,
+    tile: {
+      delay: 25,
+      sequence: "col-reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeInOutQuart",
+      duration: 750,
+      direction: "left"
+    }
+  },
+  {
+    name: "Smooth fading from top",
+    rows: 35,
+    cols: 1,
+    tile: {
+      delay: 25,
+      sequence: "col-forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeInOutQuart",
+      duration: 750,
+      direction: "left"
+    }
+  },
+  {
+    name: "Smooth sliding from right",
+    rows: 1,
+    cols: 25,
+    tile: {
+      delay: 30,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 350,
+      direction: "left"
+    }
+  },
+  {
+    name: "Smooth sliding from left",
+    rows: 1,
+    cols: 25,
+    tile: {
+      delay: 30,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 350,
+      direction: "right"
+    }
+  },
+  {
+    name: "Smooth sliging from bottom",
+    rows: 25,
+    cols: 1,
+    tile: {
+      delay: 30,
+      sequence: "col-reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 350,
+      direction: "top"
+    }
+  },
+  {
+    name: "Smooth sliding from top",
+    rows: 25,
+    cols: 1,
+    tile: {
+      delay: 30,
+      sequence: "col-forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 350,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding tiles to right (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding tiles to left (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "left"
+    }
+  },
+  {
+    name: "Sliding tiles to bottom (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding tiles to top (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding random tiles to random directions",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "random"
+    }
+  },
+  {
+    name: "Sliding rows to right (forward)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding rows to right (reverse)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding rows to right (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding rows to left (forward)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Sliding rows to left (reverse)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Sliding rows to left (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Sliding rows from top to bottom (forward)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding rows from top to bottom (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding rows from bottom to top (reverse)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding rows from bottom to top (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding columns to bottom (forward)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding columns to bottom (reverse)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding columns to bottom (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Sliding columns to top (forward)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding columns to top (reverse)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding columns to top (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Sliding columns from left to right (forward)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding columns from left to right (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Sliding columns from right to left (reverse)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Sliding columns from right to left (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading and sliding tiles to right (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "right"
+    }
+  },
+  {
+    name: "Fading and sliding tiles to left (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading and sliding tiles to bottom (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Fading and sliding tiles to top (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "top"
+    }
+  },
+  {
+    name: "Fading and sliding random tiles to random directions",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "random"
+    }
+  },
+  {
+    name: "Fading and sliding tiles from top-left (forward)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "topleft"
+    }
+  },
+  {
+    name: "Fading and sliding tiles from bottom-right (reverse)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "bottomright"
+    }
+  },
+  {
+    name: "Fading and sliding tiles from top-right (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "topright"
+    }
+  },
+  {
+    name: "Fading and sliding tiles from bottom-left (random)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 50,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 500,
+      direction: "bottomleft"
+    }
+  },
+  {
+    name: "Fading and sliding rows to right (forward)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Fading and sliding rows to right (reverse)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Fading and sliding rows to right (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Fading and sliding rows to left (forward)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading and sliding rows to left (reverse)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading and sliding rows to left (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading and sliding rows from top to bottom (forward)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Fading and sliding rows from top to bottom (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Fading and sliding rows from bottom to top (reverse)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Fading and sliding rows from bottom to top (random)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 100,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Fading and sliding columns to bottom (forward)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Fading and sliding columns to bottom (reverse)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Fading and sliding columns to bottom (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "bottom"
+    }
+  },
+  {
+    name: "Fading and sliding columns to top (forward)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Fading and sliding columns to top (reverse)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Fading and sliding columns to top (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "top"
+    }
+  },
+  {
+    name: "Fading and sliding columns from left to right (forward)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Fading and sliding columns from left to right (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "right"
+    }
+  },
+  {
+    name: "Fading and sliding columns from right to left (reverse)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Fading and sliding columns from right to left (random)",
+    rows: 1,
+    cols: [12, 16],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "left"
+    }
+  },
+  {
+    name: "Carousel",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "left",
+      scale: .5
+    }
+  },
+  {
+    name: "Carousel rows",
+    rows: 4,
+    cols: 1,
+    tile: {
+      delay: 50,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "left",
+      scale: .5
+    }
+  },
+  {
+    name: "Carousel cols",
+    rows: 1,
+    cols: 4,
+    tile: {
+      delay: 50,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "left",
+      scale: .5
+    }
+  },
+  {
+    name: "Carousel tiles horizontal",
+    rows: 3,
+    cols: 4,
+    tile: {
+      delay: 35,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "left",
+      scale: .5,
+      rotateY: 90
+    }
+  },
+  {
+    name: "Carousel tiles vertical",
+    rows: 3,
+    cols: 4,
+    tile: {
+      delay: 35,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "top",
+      scale: .5,
+      rotateX: -90
+    }
+  },
+  {
+    name: "Carousel-mirror tiles horizontal",
+    rows: 3,
+    cols: 4,
+    tile: {
+      delay: 15,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "left",
+      scale: .5,
+      rotateY: 90
+    }
+  },
+  {
+    name: "Carousel-mirror tiles vertical",
+    rows: 3,
+    cols: 4,
+    tile: {
+      delay: 15,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "top",
+      scale: .5,
+      rotateX: -90
+    }
+  },
+  {
+    name: "Carousel mirror rows",
+    rows: 4,
+    cols: 1,
+    tile: {
+      delay: 50,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "right",
+      scale: .5
+    }
+  },
+  {
+    name: "Carousel mirror cols",
+    rows: 1,
+    cols: 4,
+    tile: {
+      delay: 50,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeInOutQuad",
+      duration: 750,
+      direction: "left",
+      scale: .5
+    }
+  },
+  {
+    name: "Turning tile from left",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "right",
+      rotateY: 90
+    }
+  },
+  {
+    name: "Turning tile from right",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: -90
+    }
+  },
+  {
+    name: "Turning tile from top",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "bottom",
+      rotateX: -90
+    }
+  },
+  {
+    name: "Turning tile from bottom",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "top",
+      rotateX: 90
+    }
+  },
+  {
+    name: "Turning tiles from left",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: 90
+    }
+  },
+  {
+    name: "Turning tiles from right",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: -90
+    }
+  },
+  {
+    name: "Turning tiles from top",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateX: -90
+    }
+  },
+  {
+    name: "Turning tiles from bottom",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateX: 90
+    }
+  },
+  {
+    name: "Turning rows from top",
+    rows: [6, 12],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateX: 90
+    }
+  },
+  {
+    name: "Turning rows from bottom",
+    rows: [6, 12],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateX: -90
+    }
+  },
+  {
+    name: "Turning cols from left",
+    rows: 1,
+    cols: [6, 12],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: -90
+    }
+  },
+  {
+    name: "Turning cols from right",
+    rows: 1,
+    cols: [6, 12],
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: 90
+    }
+  },
+  {
+    name: "Flying rows from left",
+    rows: [3, 10],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: 90
+    }
+  },
+  {
+    name: "Flying rows from right",
+    rows: [3, 10],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateY: -90
+    }
+  },
+  {
+    name: "Flying cols from top",
+    rows: 1,
+    cols: [3, 10],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateX: -90
+    }
+  },
+  {
+    name: "Flying cols from bottom",
+    rows: 1,
+    cols: [3, 10],
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotateX: 90
+    }
+  },
+  {
+    name: "Flying and rotating tile from left",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "right",
+      scale: .1,
+      rotate: -90,
+      rotateY: 90
+    }
+  },
+  {
+    name: "Flying and rotating tile from right",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      scale: .1,
+      rotate: 90,
+      rotateY: -90
+    }
+  },
+  {
+    name: "Flying and rotating tiles from left",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "right",
+      rotate: -45
+    }
+  },
+  {
+    name: "Flying and rotating tiles from right",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      rotate: -45
+    }
+  },
+  {
+    name: "Flying and rotating tiles from random",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 55,
+      sequence: "random"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "random",
+      rotate: -45
+    }
+  },
+  {
+    name: "Scaling tile in",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 1500,
+      direction: "left",
+      scale: .8
+    }
+  },
+  {
+    name: "Scaling tile from out",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "left",
+      scale: 1.2
+    }
+  },
+  {
+    name: "Scaling tiles random",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 35,
+      sequence: "random"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      scale: .1
+    }
+  },
+  {
+    name: "Scaling tiles from out random",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 35,
+      sequence: "random"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      scale: 2
+    }
+  },
+  {
+    name: "Scaling in and rotating tiles random",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 35,
+      sequence: "random"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      scale: .1,
+      rotate: 90
+    }
+  },
+  {
+    name: "Scaling and rotating tiles from out random",
+    rows: [3, 4],
+    cols: [3, 4],
+    tile: {
+      delay: 35,
+      sequence: "random"
+    },
+    transition: {
+      type: "fade",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left",
+      scale: 2,
+      rotate: -90
+    }
+  },
+  {
+    name: "Mirror-sliding tiles diagonal",
+    rows: 3,
+    cols: 4,
+    tile: {
+      delay: 15,
+      sequence: "forward"
+    },
+    transition: {
+      type: "slide",
+      easing: "easeInOutQuart",
+      duration: 850,
+      direction: "topright"
+    }
+  },
+  {
+    name: "Mirror-sliding rows horizontal",
+    rows: 6,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left"
+    }
+  },
+  {
+    name: "Mirror-sliding rows vertical",
+    rows: 6,
+    cols: 1,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "top"
+    }
+  },
+  {
+    name: "Mirror-sliding cols horizontal",
+    rows: 1,
+    cols: 8,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "left"
+    }
+  },
+  {
+    name: "Mirror-sliding cols vertical",
+    rows: 1,
+    cols: 8,
+    tile: {
+      delay: 0,
+      sequence: "forward"
+    },
+    transition: {
+      type: "mixed",
+      easing: "easeOutQuart",
+      duration: 750,
+      direction: "top"
+    }
+  }],
+  t3d: [{
+    name: "Spinning tile to right (180&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: 91
+      },
+      easing: "easeInQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning tile to left (180&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: -91
+      },
+      easing: "easeInQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeOutQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning tile to bottom (180&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: -91
+      },
+      easing: "easeInQuart",
+      duration: 800,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeOutQuart",
+      duration: 800,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Spinning tile to top (180&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: 91
+      },
+      easing: "easeInQuart",
+      duration: 800,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeOutQuart",
+      duration: 800,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Spinning tiles to right (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning tiles to left (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning tiles to bottom (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-forward"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Spinning tiles to top (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-reverse"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Horizontal spinning tiles random (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1300,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Vertical spinning tiles random (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1300,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Scaling and spinning tiles to right (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .95
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning tiles to left (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .95
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning tiles to bottom (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-forward"
+    },
+    before: {
+      transition: {
+        scale3d: .95
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning tiles to top (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .95
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and horizontal spinning tiles random (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .95,
+        rotateX: 30
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: 180,
+        rotateX: -30
+      },
+      easing: "easeInOutBack",
+      duration: 1300,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateX: 0
+      },
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and vertical spinning tiles random (180&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .95,
+        rotateY: -15
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: 180,
+        rotateY: 15
+      },
+      easing: "easeInOutBack",
+      duration: 1300,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        rotateY: 0
+      },
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Spinning rows to right (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning rows to left (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning rows to bottom (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Spinning rows to top (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Horizontal spinning rows random (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Vertical spinning rows random (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Vertical spinning rows random (540&#176;)",
+    rows: [3, 7],
+    cols: 1,
+    tile: {
+      delay: 150,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateX: -540
+      },
+      easing: "easeInOutQuart",
+      duration: 2e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Scaling and spinning rows to right (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1200,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and spinning rows to left (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1200,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and spinning rows to bottom (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and spinning rows to top (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and horizontal spinning rows random (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1200,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and vertical spinning rows random (180&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 55,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 600,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Spinning columns to right (180&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning columns to left (180&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning columns to bottom (180&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Spinning columns to top (180&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Horizontal spinning columns random (180&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Vertical spinning columns random (180&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Horizontal spinning columns random (540&#176;)",
+    rows: 1,
+    cols: [4, 9],
+    tile: {
+      delay: 150,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateY: 540
+      },
+      easing: "easeInOutQuart",
+      duration: 2e3,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Scaling and spinning columns to right (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and spinning columns to left (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 55,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 600,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and spinning columns to bottom (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 55,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1200,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and spinning columns to top (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1200,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and horizontal spinning columns random (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 600,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and vertical spinning columns random (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1200,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Drunk colums scaling and spinning to right (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: -30
+      },
+      duration: 600,
+      easing: "easeOutQuart"
+    },
+    animation: {
+      transition: {
+        rotateX: -30,
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateX: 0,
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 600
+    }
+  },
+  {
+    name: "Drunk colums scaling and spinning to left (180&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: -30
+      },
+      duration: 600,
+      easing: "easeOutQuart"
+    },
+    animation: {
+      transition: {
+        rotateX: 30,
+        rotateY: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateX: 0,
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 600
+    }
+  },
+  {
+    name: "Turning cuboid to right (90&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: 90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Turning cuboid to left (90&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: -90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Turning cuboid to bottom (90&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Turning cuboid to top (90&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: 90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Scaling and turning cuboid to right (90&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        scale3d: .8,
+        rotate: 7,
+        rotateX: 10,
+        rotateY: 45
+      },
+      easing: "easeInOutQuad",
+      duration: 800,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotate: 0,
+        rotateX: 0,
+        rotateY: 90
+      },
+      duration: 800,
+      easing: "easeInOutQuad"
+    }
+  },
+  {
+    name: "Scaling and turning cuboid to left (90&#176;)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        scale3d: .8,
+        rotate: -7,
+        rotateX: 10,
+        rotateY: -45
+      },
+      easing: "easeInOutQuad",
+      duration: 800,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotate: 0,
+        rotateX: 0,
+        rotateY: -90
+      },
+      duration: 800,
+      easing: "easeInOutQuad"
+    }
+  },
+  {
+    name: "Scaling and turning cuboids to right (90&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: 90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and turning cuboids to left (90&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and turning cuboids to bottom (90&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and turning cuboids to top (90&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: 90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and horizontal turning cuboids random (90&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .65,
+        rotateX: -15
+      },
+      duration: 700,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: 75,
+        rotateX: 15
+      },
+      easing: "easeInOutBack",
+      duration: 700,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateY: 90,
+        rotateX: 0
+      },
+      duration: 700,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and vertical turning cuboids random (90&#176;)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .65,
+        rotateY: 15
+      },
+      duration: 700,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: 75,
+        rotateY: -15
+      },
+      easing: "easeInOutBack",
+      duration: 700,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        rotateX: 90,
+        rotateY: 0
+      },
+      duration: 700,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Turning rows to right (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: 90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Turning rows to left (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateY: -90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Horizontal turning rows random (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateY: 90
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Scaling and turning rows to right (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: 3
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 87,
+        rotateX: 0
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200,
+        rotateY: 90
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and turning rows to left (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: 3
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: -90,
+        rotateX: 0
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and turning rows to bottom (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and turning rows to top (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: 90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and horizontal turning rows random (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: 3
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 90,
+        rotateX: 0
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and vertical turning rows random (90&#176;)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and horizontal turning drunk rows to right (90&#176;)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        scale3d: .85,
+        rotateX: 5,
+        rotateY: 45
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateX: 0,
+        rotateY: 90
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3
+    }
+  },
+  {
+    name: "Scaling and horizontal turning drunk rows to left (90&#176;)",
+    rows: [7, 11],
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    animation: {
+      transition: {
+        scale3d: .85,
+        rotateX: 5,
+        rotateY: -45
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        rotateX: 0,
+        rotateY: -90
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3
+    }
+  },
+  {
+    name: "Turning columns to bottom (90&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Turning columns to top (90&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    animation: {
+      transition: {
+        rotateX: 90
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Vertical turning columns random (90&#176;)",
+    rows: 1,
+    cols: [5, 9],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutQuart",
+      duration: 1e3,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Scaling and turning columns to bottom (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and turning columns to top (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: 90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and turning columns to right (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and turning columns to left (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and horizontal turning columns random (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and vertical turning columns random (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "random"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -90
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutBack",
+      duration: 600
+    }
+  },
+  {
+    name: "Scaling and vertical turning drunk columns to right (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "forward"
+    },
+    animation: {
+      transition: {
+        scale3d: .85,
+        rotateX: 45,
+        rotateY: -5
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        rotateX: 90,
+        rotateY: 0
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3
+    }
+  },
+  {
+    name: "Scaling and vertical turning drunk columns to left (90&#176;)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 75,
+      sequence: "reverse"
+    },
+    animation: {
+      transition: {
+        scale3d: .85,
+        rotateX: -45,
+        rotateY: -5
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        rotateX: -90,
+        rotateY: 0
+      },
+      easing: "easeInOutQuint",
+      duration: 1e3
+    }
+  },
+  {
+    name: "Spinning cuboid to right (180&#176;, large depth)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward",
+      depth: "large"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning cuboid to left (180&#176;, large depth)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward",
+      depth: "large"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "horizontal"
+    }
+  },
+  {
+    name: "Spinning cuboid to bottom (180&#176;, large depth)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward",
+      depth: "large"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Spinning cuboid to top (180&#176;, large depth)",
+    rows: 1,
+    cols: 1,
+    tile: {
+      delay: 75,
+      sequence: "forward",
+      depth: "large"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1500,
+      direction: "vertical"
+    }
+  },
+  {
+    name: "Scaling and spinning cuboids to right (180&#176;, large depth)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "forward",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning cuboids to left (180&#176;, large depth)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "reverse",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning cuboids to bottom (180&#176;, large depth)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-forward",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning cuboids to top (180&#176;, large depth)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "col-reverse",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 450,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      duration: 350,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and horizontal spinning cuboids random (180&#176;, large depth)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .65
+      },
+      duration: 700,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 700,
+      direction: "horizontal"
+    },
+    after: {
+      duration: 700,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and vertical spinning cuboids random (180&#176;, large depth)",
+    rows: [2, 4],
+    cols: [4, 7],
+    tile: {
+      delay: 75,
+      sequence: "random",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .65
+      },
+      duration: 700,
+      easing: "easeInOutQuint"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutBack",
+      duration: 700,
+      direction: "vertical"
+    },
+    after: {
+      duration: 700,
+      easing: "easeInOutBack"
+    }
+  },
+  {
+    name: "Scaling and spinning rows to right (180&#176;, large depth)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 65,
+      sequence: "forward",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: 3
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180,
+        rotateX: -3
+      },
+      easing: "easeInOutQuart",
+      duration: 1200,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200,
+        rotateX: 0
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning rows to left (180&#176;, large depth)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 65,
+      sequence: "reverse",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: 3
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: -180,
+        rotateX: -3
+      },
+      easing: "easeInOutQuart",
+      duration: 1200,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200,
+        rotateX: 0
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning rows to bottom (180&#176;, large depth)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 65,
+      sequence: "forward",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning rows to top (180&#176;, large depth)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 65,
+      sequence: "reverse",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and horizontal spinning rows random (180&#176;, large depth)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 65,
+      sequence: "random",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85,
+        rotateX: 3
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180,
+        rotateX: -3
+      },
+      easing: "easeInOutQuart",
+      duration: 1200,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200,
+        rotateX: 0
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and vertical spinning rows random (180&#176;, large depth)",
+    rows: [5, 9],
+    cols: 1,
+    tile: {
+      delay: 65,
+      sequence: "random",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning columns to bottom (180&#176;, large depth)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 65,
+      sequence: "forward",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1200,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning columns to top (180&#176;, large depth)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 65,
+      sequence: "reverse",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: 180
+      },
+      easing: "easeInOutQuart",
+      duration: 1200,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning columns to right (180&#176;, large depth)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 65,
+      sequence: "forward",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and spinning columns to left (180&#176;, large depth)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 65,
+      sequence: "reverse",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: -180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and horizontal spinning columns random (180&#176;, large depth)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 65,
+      sequence: "random",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateY: 180
+      },
+      easing: "easeInOutBack",
+      duration: 1e3,
+      direction: "horizontal"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  },
+  {
+    name: "Scaling and vertical spinning columns random (180&#176;, large depth)",
+    rows: 1,
+    cols: [7, 11],
+    tile: {
+      delay: 65,
+      sequence: "random",
+      depth: "large"
+    },
+    before: {
+      transition: {
+        scale3d: .85
+      },
+      duration: 600,
+      easing: "easeOutBack"
+    },
+    animation: {
+      transition: {
+        rotateX: -180
+      },
+      easing: "easeInOutQuart",
+      duration: 1200,
+      direction: "vertical"
+    },
+    after: {
+      transition: {
+        delay: 200
+      },
+      easing: "easeOutQuart",
+      duration: 400
+    }
+  }]
+}

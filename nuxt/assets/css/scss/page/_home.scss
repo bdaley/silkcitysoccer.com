@@ -82,7 +82,7 @@ section { padding:70px 0; }
 		}
 	}
 	.content-01{
-		background:#000 url('//imagesbackground/background-news.jpg');
+		background:#000 url('/images/background/background-news.jpg');
 		padding:20px 15px;
 		.describtion{
 			padding:10px 0;
@@ -266,14 +266,14 @@ section { padding:70px 0; }
 		}
 		&.playinfodetails{
 			padding:20px 20px 20px 20px;
-			@include backgrounds(url('//imagesbackground/infoBg.jpg'),cover,center,no-repeat);
+			@include backgrounds(url('/images/background/infoBg.jpg'),cover,center,no-repeat);
 			// display:none;
 			// opacity:0;
 			transition:all 0.3s ease-in-out;
 		}
 		&.playerInfo{
 			padding:0;
-			@include backgrounds( url('//imagesbackground/infoBg.jpg'),cover,center,no-repeat);
+			@include backgrounds( url('/images/background/infoBg.jpg'),cover,center,no-repeat);
 			transition:all 0.3s ease-in-out;
 			span{
 				padding:5px 20px;
@@ -444,7 +444,7 @@ section { padding:70px 0; }
 /*------------ social media ----------- */
 .social-media{
 	padding:70px 0;
-	@include backgrounds(url('/imagesbackground/socialMediaHomeBg.jpg'),cover,center,no-repeat);
+	@include backgrounds(url('/images/background/socialMediaHomeBg.jpg'),cover,center,no-repeat);
 }
 .socialinfo{
 	text-align:center;
@@ -495,7 +495,7 @@ section { padding:70px 0; }
 				position:relative;
 				height: 380px;
 				line-height: 380px;
-				@include backgrounds(url('//imagesbackground/background-news.jpg'),cover,center,no-repeat);
+				@include backgrounds(url('/images/background/background-news.jpg'),cover,center,no-repeat);
 			}
 			img{
 				transition:all 0.5s ease-in-out;
@@ -600,7 +600,7 @@ section { padding:70px 0; }
 			padding:15px ;
 			width:100%;
 			margin:5px 0 0;
-			@include backgrounds(url('//imagesbackground/infoBg.jpg'),cover,center,no-repeat);
+			@include backgrounds(url('/images/background/infoBg.jpg'),cover,center,no-repeat);
 		}
 		.price { color: $red;}
 	}
@@ -676,7 +676,7 @@ section { padding:70px 0; }
 	li{
 		@include make-xs-column(3);
 		@include make-lg-column(12);
-		@include backgrounds(url('//imagesbackground/counterBg.jpg'),cover,top center,no-repeat);
+		@include backgrounds(url('/images/background/counterBg.jpg'),cover,top center,no-repeat);
 		padding:15px 0;
 		// margin-bottom:2px;
 		border-right:2px solid $red;
@@ -689,7 +689,7 @@ section { padding:70px 0; }
 	}
 }
 .home_tInfo{
-	@include backgrounds(url('//imagesbackground/counterBg.jpg'),cover,top center,no-repeat);
+	@include backgrounds(url('/images/background/counterBg.jpg'),cover,top center,no-repeat);
 	li{
 		padding:15px 0 9px;
 		background: transparent;
@@ -705,7 +705,7 @@ section { padding:70px 0; }
 	}
 }
 .point_table{
-	@include backgrounds(url('//imagesbackground/counterBg.jpg'),cover,top center,no-repeat);
+	@include backgrounds(url('/images/background/counterBg.jpg'),cover,top center,no-repeat);
 	li{
 		padding:10px 0;
 		&:nth-of-type(even){

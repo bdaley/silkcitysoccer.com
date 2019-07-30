@@ -1,11 +1,11 @@
 /**
  * Scroller
  */
-function Scroller()
+window.Scroller = function()
 {
   this.latestKnownScrollY = 0;
   this.ticking            = false;
-  
+
 }
 
 Scroller.prototype = {
@@ -42,7 +42,7 @@ Scroller.prototype = {
   update: function() {
     var currentScrollY = this.latestKnownScrollY;
     this.ticking       = false;
-    
+
     /**
      * Do The Dirty Work Here
      */
