@@ -23,7 +23,7 @@
     "jquery.countdown": "^1.2.8",
     "magnific-popup": "^1.1.0",
     "masonry": "^0.0.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "nodemon": "^1.18.9",
     "parsleyjs": "^2.9.1",
     "sass-loader": "^7.1.0",
